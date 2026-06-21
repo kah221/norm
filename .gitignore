@@ -1,0 +1,36 @@
+# 外部著作物を除外（自作のものはown）
+_A/ext/
+
+# 設定ファイルを除外
+__Setting
+
+# テンプレートファイルを除外
+__Tmp/
+
+# GoogleDriveファイルを除外
+.tmp.drivedownload/
+.tmp.driveupload/
+
+# そのほかファイルを除外
+DATAVIEW.md
+DATA.base
+queue.md
+TAG.md
+all_Wordv.md
+
+# OSが勝手に作る隠しファイルを除外
+.DS_Store
+Thumbs.db
+desktop.ini
+.obsidian
+
+# Obsidianのゴミ箱
+.trash/
+
+# Obsidianのワークスペース履歴
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/workspace.json.bak
+
+# Obsidian設定フォルダ全体を除外
+.obsidian/
