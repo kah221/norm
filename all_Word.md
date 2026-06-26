@@ -25,3 +25,5 @@
 [ベクトル軌跡（Vector Locus）](_Word/ベクトル軌跡.md)，
 [ナイキスト線図（Nyquist Plot）](_Word/ナイキスト線図.md)，
 [心理的リアクタンス（Psychological Reactance）](_Word/心理的リアクタンス.md)，
+[入力整形法（Input Shaping, IS）](_Word/入力整形法.md)，
+[ノッチフィルタ（Notch Filter）](_Word/ノッチフィルタ.md)，

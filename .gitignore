@@ -7,6 +7,9 @@ __Setting
 # テンプレートファイルを除外
 __Tmp/
 
+# ノートファイルを除外
+_Note/
+
 # GoogleDriveファイルを除外
 .tmp.drivedownload/
 .tmp.driveupload/
