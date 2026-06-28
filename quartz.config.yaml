@@ -5,7 +5,9 @@ configuration:
   enableSPA: true
   enablePopovers: true
   analytics:
-    provider: plausible
+    provider: umami
+    host: https://cloud.umami.is
+    websiteId: bd2e44d5-3426-4801-8f27-d6cf7bc6fc6d
   locale: en-US
   baseUrl: kah221.github.io/norm
   ignorePatterns:
