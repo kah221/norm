@@ -27,3 +27,7 @@
 [心理的リアクタンス（Psychological Reactance）](_Word/psychological-reactance.md)，
 [入力整形法（Input Shaping, IS）](_Word/input-shaping.md)，
 [ノッチフィルタ（Notch Filter）](_Word/notch-filter.md)，
+[bode-plot（Bode Plot）](_Word/bode-plot.md)，
+[bode-plot](_Word/bode-plot.md)，
+[bode-plot](_Word/bode-plot.md)，
+[ボード線図（Bode Plot）](_Word/bode-plot.md)，
