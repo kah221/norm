@@ -10,14 +10,14 @@ tags:
   - 要素/手法・アルゴリズム
   - 分野/信号処理
 up:
-  - "[[_Word/observer|observer]]"
+  - "[[_Word/observer|オブザーバ]]"
 sibling:
-  - "[[拡張カルマンフィルタ]]"
-  - "[[同一次元オブザーバ]]"
-  - "[[粒子フィルタ]]"
+  - "[[_Word/extended-kalman-filter|拡張カルマンフィルタ]]"
+  - "[[_Word/full-order-observer|同一次元オブザーバ]]"
+  - "[[_Word/particle-filter|粒子フィルタ]]"
 person:
-  - "[[ルドルフ・カルマン]]"
-  - "[[リチャード・ビューシー]]"
+  - "[[_Name/rudolf-kalman|ルドルフ・カルマン]]"
+  - "[[_Name/richard-bucy|リチャード・ビューシー]]"
 source: https://ja.wikipedia.org/wiki/カルマンフィルター
 ---
 # カルマンフィルタ（Kalman Filter, KF）

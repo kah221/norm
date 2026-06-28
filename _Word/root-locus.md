@@ -10,11 +10,11 @@ tags:
   - 分野/制御工学/古典制御
   - 要素/手法・アルゴリズム
 up:
-  - "[[安定解析手法]]"
+  - "[[_Word/stability-analysis-method|安定解析手法]]"
 sibling:
-  - "[[ナイキストの安定判別法]]"
-  - "[[ボード線図]]"
-  - "[[フルビッツ・ラウスの安定判別法]]"
+  - "[[_Word/nyquist-stability-criterion|ナイキストの安定判別法]]"
+  - "[[_Word/bode-plot|ボード線図]]"
+  - "[[_Word/routh-hurwitz-stability-criterion|フルビッツ・ラウスの安定判別法]]"
 person:
   - "[[_Name/walter-r-evans|ウォルター・リチャード・エヴァンス]]"
 source:

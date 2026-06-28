@@ -8,14 +8,14 @@ tags:
   - 分野/制御工学/古典制御
   - 要素/手法・アルゴリズム
 up:
-  - "[[周波数応答解析]]"
+  - "[[_Word/frequency-response-analysis|周波数応答解析]]"
 sibling:
-  - "[[ボード線図]]"
-  - "[[ニコルス線図]]"
-  - "[[根軌跡法]]"
+  - "[[_Word/bode-plot|ボード線図]]"
+  - "[[_Word/nichols-plot|ニコルス線図]]"
+  - "[[_Word/root-locus-method|根軌跡法]]"
 pair:
 person:
-  - "[[_Name/harry-nyquist]]"
+  - "[[_Name/harry-nyquist|ハリー・ナイキスト]]"
 source:
   - https://controlabo.com/vector-locus/
 ---

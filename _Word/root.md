@@ -9,8 +9,8 @@ tags:
   - 要素/概念
 up:
 sibling:
-  - "[[_Word/pole|pole]]"
-  - "[[_Word/zero|zero]]"
+  - "[[_Word/pole|極]]"
+  - "[[_Word/zero|零点]]"
 person:
   - "[[_Name/walter-r-evans|ウォルター・リチャード・エヴァンス]]"
   - エドワード・ラウス

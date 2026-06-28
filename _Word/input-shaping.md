@@ -10,17 +10,17 @@ tags:
   - 分野/機構学
   - 要素/手法・アルゴリズム
 up:
-  - "[[フィードフォワード制御]]"
-  - "[[振動制御]]"
+  - "[[_Word/feedforward-control|フィードフォワード制御]]"
+  - "[[_Word/vibration-control|振動制御]]"
 sibling:
   - "[[_Word/posicast-control|ポジキャスト制御]]"
-  - "[[ノッチフィルタ制御]]"
-  - "[[LQR]]"
+  - "[[_Word/notch-filter-control|ノッチフィルタ制御]]"
+  - "[[_Word/linear-quadratic-regulator|LQR]]"
 pair:
 person:
-  - "[[ニール・シンガー]]"
-  - "[[ウォーレン・シアリング]]"
-  - "[[ウィリアム・シンゴース]]"
+  - "[[_Name/neil-singer|ニール・シンガー]]"
+  - "[[_Name/warren-seering|ウォーレン・シアリング]]"
+  - "[[_Name/william-singhose|ウィリアム・シンゴース]]"
 source:
   - https://grokipedia.com/page/Input_shaping
 ---

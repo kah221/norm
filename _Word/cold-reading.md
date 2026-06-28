@@ -8,15 +8,15 @@ tags:
   - 分野/心理学
   - 要素/手法・アルゴリズム
 up:
-  - "[[認知バイアス]]"
+  - "[[_Word/cognitive-bias|認知バイアス]]"
 sibling:
-  - "[[ホットリーディング]]"
-  - "[[バーナム効果]]"
+  - "[[_Word/hot-reading|ホットリーディング]]"
+  - "[[_Word/barnum-effect|バーナム効果]]"
   - "[[_Word/caligula-effect|カリギュラ効果]]"
 person:
-  - "[[レイ・ハイマン]]"
-  - "[[バートラム・フォアラー]]"
-  - "[[石井裕之]]"
+  - "[[_Name/ray-hyman|レイ・ハイマン]]"
+  - "[[_Name/bertram-forer|バートラム・フォアラー]]"
+  - "[[_Name/hiroyuki-ishii|石井裕之]]"
 source:
   - https://note.com/chiri_chiriri/n/n1bd0d5f5c42f
 ---

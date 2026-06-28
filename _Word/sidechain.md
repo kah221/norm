@@ -8,15 +8,15 @@ tags:
   - 分野/音楽理論
   - 要素/手法・アルゴリズム
 up:
-  - "[[コンプレッサー]]"
-  - "[[ダイナミクス処理]]"
+  - "[[_Word/compressor|コンプレッサー]]"
+  - "[[_Word/dynamics-processing|ダイナミクス処理]]"
 sibling:
-  - "[[ダッキング]]"
-  - "[[ディエッサー]]"
-  - "[[ゲート]]"
-  - "[[ポンピング効果]]"
+  - "[[_Word/ducking|ダッキング]]"
+  - "[[_Word/de-esser|ディエッサー]]"
+  - "[[_Word/gate|ゲート]]"
+  - "[[_Word/pumping-effect|ポンピング効果]]"
 person:
-  - "[[ダグラス・シアラー]]"
+  - "[[_Name/douglas-shearer|ダグラス・シアラー]]"
 source:
   - https://www.ableton.com/ja/blog/sidechain-compression-part-1/
 ---

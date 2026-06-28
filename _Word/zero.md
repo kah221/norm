@@ -9,13 +9,13 @@ tags:
   - 要素/概念
   - 分野/制御工学/現代制御
 up:
-  - "[[伝達関数]]"
+  - "[[_Word/transfer-function|伝達関数]]"
 sibling:
-  - "[[_Word/pole]]"
-  - "[[_Word/root]]"
-pair: "[[_Word/pole|pole]]"
+  - "[[_Word/pole|極]]"
+  - "[[_Word/root|根]]"
+pair: "[[_Word/pole|極]]"
 person:
-  - "[[ヘンドリック・ボーデ]]"
+  - "[[_Name/hendrik-bode|ヘンドリック・ボーデ]]"
 source:
   - https://blog.control-theory.com/entry/2024/08/19/182817
 ---

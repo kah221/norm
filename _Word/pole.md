@@ -8,16 +8,16 @@ tags:
   - 分野/制御工学/古典制御
   - 要素/概念
 up:
-  - "[[伝達関数]]"
+  - "[[_Word/transfer-function|伝達関数]]"
 sibling:
-  - "[[_Word/root|root]]"
-  - "[[_Word/root-locus|root-locus]]"
-pair: "[[_Word/zero|zero]]"
+  - "[[_Word/root|根]]"
+  - "[[_Word/root-locus|根軌跡]]"
+pair: "[[_Word/zero|零点]]"
 person:
   - "[[_Name/walter-r-evans|ウォルター・リチャード・エヴァンス]]"
   - エドワード・ラウス
   - アドルフ・フルビッツ
-  - "[[_Name/harry-nyquist|harry-nyquist]]"
+  - "[[_Name/harry-nyquist|ハリー・ナイキスト]]"
 source: https://www.jsme.or.jp/kaisi/1254-36/
 ---
 # 極（Pole）

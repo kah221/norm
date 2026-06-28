@@ -9,16 +9,16 @@ tags:
   - 分野/制御工学/古典制御
   - 要素/モデル・数式
 up:
-  - "[[伝達関数]]"
-  - "[[フィードバック制御系]]"
+  - "[[_Word/transfer-function|伝達関数]]"
+  - "[[_Word/feedback-control-system|フィードバック制御系]]"
 sibling:
-  - "[[閉ループ伝達関数]]"
-  - "[[開ループ伝達関数]]"
+  - "[[_Word/closed-loop-transfer-function|閉ループ伝達関数]]"
+  - "[[_Word/open-loop-transfer-function|開ループ伝達関数]]"
 pair:
-  - "[[閉ループ伝達関数]]"
+  - "[[_Word/closed-loop-transfer-function|閉ループ伝達関数]]"
 person:
-  - "[[_Name/harry-nyquist]]"
-  - "[[ヘンドリック・ボーデ]]"
+  - "[[_Name/harry-nyquist|ハリー・ナイキスト]]"
+  - "[[_Name/hendrik-bode|ヘンドリック・ボーデ]]"
 source:
   - https://controlabo.com/open-loop-closed-loop/
 ---

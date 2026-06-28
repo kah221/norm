@@ -9,14 +9,14 @@ tags:
   - 分野/心理学
   - 要素/概念
 up:
-  - "[[皮肉過程理論]]"
-  - "[[思考抑制]]"
-  - "[[_Word/psychological-reactance]]"
+  - "[[_Word/ironic-process-theory|皮肉過程理論]]"
+  - "[[_Word/thought-suppression|思考抑制]]"
+  - "[[_Word/psychological-reactance|心理的リアクタンス]]"
 sibling:
-  - "[[_Word/zeigarnik-effect]]"
+  - "[[_Word/zeigarnik-effect|ツァイガルニク効果]]"
   - "[[_Word/caligula-effect|カリギュラ効果]]"
 person:
-  - "[[ダニエル・ウェグナー]]"
+  - "[[_Name/daniel-wegner|ダニエル・ウェグナー]]"
 source:
   - https://everyday-evident.net/white-bear-effect/
 ---

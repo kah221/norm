@@ -12,14 +12,14 @@ tags:
   - 分野/制御工学/現代制御
   - 要素/概念
 up:
-  - "[[制御系]]"
-  - "[[フィードバック制御]]"
+  - "[[_Word/control-system|制御系]]"
+  - "[[_Word/feedback-control|フィードバック制御]]"
 sibling:
-  - "[[フィードフォワード制御系]]"
-pair: "[[_Word/open-loop-system|open-loop-system]]"
+  - "[[_Word/feedforward-control-system|フィードフォワード制御系]]"
+pair: "[[_Word/open-loop-system|開ループシステム]]"
 person:
-  - "[[ノーバート・ウィーナー]]"
-  - "[[ハロルド・ブラック]]"
+  - "[[_Name/norbert-wiener|ノーバート・ウィーナー]]"
+  - "[[_Name/harold-black|ハロルド・ブラック]]"
 source:
   - https://ja.wikipedia.org/wiki/閉ループ制御
 ---

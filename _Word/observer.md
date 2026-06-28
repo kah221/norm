@@ -9,16 +9,16 @@ tags:
   - 分野/制御工学/現代制御
   - 要素/手法・アルゴリズム
 up:
-  - "[[状態推定]]"
-  - "[[状態空間表現]]"
+  - "[[_Word/state-estimation|状態推定]]"
+  - "[[_Word/state-space-representation|状態空間表現]]"
 sibling:
-  - "[[_Word/kalman-filter]]"
-  - "[[外乱オブザーバ]]"
-  - "[[同一次元オブザーバ]]"
-  - "[[最小次元オブザーバ]]"
+  - "[[_Word/kalman-filter|カルマンフィルタ]]"
+  - "[[_Word/disturbance-observer|外乱オブザーバ]]"
+  - "[[_Word/full-order-observer|同一次元オブザーバ]]"
+  - "[[_Word/reduced-order-observer|最小次元オブザーバ]]"
 person:
-  - "[[デイヴィッド・ルエンバーガー]]"
-  - "[[ルドルフ・カルマン]]"
+  - "[[_Name/david-luenberger|デイヴィッド・ルエンバーガー]]"
+  - "[[_Name/rudolf-kalman|ルドルフ・カルマン]]"
 source:
   - https://blog.control-theory.com/entry/2024/02/28/100201
 ---

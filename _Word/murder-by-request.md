@@ -9,13 +9,13 @@ tags:
   - 分野/法学
   - 要素/概念
 up:
-  - "[[同意殺人罪]]"
-  - "[[殺人罪]]"
+  - "[[_Word/consensual-homicide|同意殺人罪]]"
+  - "[[_Word/homicide|殺人罪]]"
 sibling:
-  - "[[承諾殺人]]"
-  - "[[自殺幇助]]"
-  - "[[自殺教唆]]"
-  - "[[安楽死]]"
+  - "[[_Word/consensual-homicide|承諾殺人]]"
+  - "[[_Word/assisted-suicide|自殺幇助]]"
+  - "[[_Word/incitement-to-suicide|自殺教唆]]"
+  - "[[_Word/euthanasia|安楽死]]"
 person:
 source:
   - https://kotobank.jp/word/嘱託殺人罪-80160

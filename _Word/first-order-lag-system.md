@@ -9,15 +9,15 @@ tags:
   - 分野/信号処理
   - 要素/モデル・数式
 up:
-  - "[[伝達関数]]"
-  - "[[線形時不変システム]]"
+  - "[[_Word/transfer-function|伝達関数]]"
+  - "[[_Word/linear-time-invariant-system|線形時不変システム]]"
 sibling:
   - "[[_Word/second-order-lag-system|2次遅れ系]]"
-  - "[[積分要素]]"
-  - "[[比例要素]]"
-  - "[[無駄時間要素]]"
+  - "[[_Word/integral-element|積分要素]]"
+  - "[[_Word/proportional-element|比例要素]]"
+  - "[[_Word/dead-time-element|無駄時間要素]]"
 person:
-  - "[[ヘンドリック・ボーデ]]"
+  - "[[_Name/hendrik-bode|ヘンドリック・ボーデ]]"
 source:
   - https://eng.kice.tokyo/control/delay-element/
 ---

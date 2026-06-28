@@ -9,14 +9,14 @@ tags:
   - 分野/手法・アルゴリズム
   - 分野/制御工学/古典制御
 up:
-  - "[[_Word/vector-locus]]"
+  - "[[_Word/vector-locus|ベクトル軌跡]]"
 sibling:
-  - "[[ボード線図]]"
-  - "[[ニコルス線図]]"
-  - "[[根軌跡法]]"
+  - "[[_Word/bode-plot|ボード線図]]"
+  - "[[_Word/nichols-plot|ニコルス線図]]"
+  - "[[_Word/root-locus-method|根軌跡法]]"
 pair:
 person:
-  - "[[_Name/harry-nyquist|harry-nyquist]]"
+  - "[[_Name/harry-nyquist|ハリー・ナイキスト]]"
 source:
   - https://controlabo.com/nyquist-stability-criterion/
 ---

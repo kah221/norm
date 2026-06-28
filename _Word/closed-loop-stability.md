@@ -8,15 +8,15 @@ tags:
   - 分野/制御工学/古典制御
   - 要素/概念
 up:
-  - "[[安定性]]"
+  - "[[_Word/stability|安定性]]"
 sibling:
   - "[[_Word/open-loop-stability|開ループ安定性]]"
-  - "[[内部安定性]]"
+  - "[[_Word/internal-stability|内部安定性]]"
 pair:
   - "[[_Word/open-loop-stability|開ループ安定性]]"
 person:
-  - "[[エドワード・ラウス]]"
-  - "[[アドルフ・フルビッツ]]"
+  - "[[_Name/edward-routh|エドワード・ラウス]]"
+  - "[[_Name/adolf-hurwitz|アドルフ・フルビッツ]]"
   - "[[_Name/harry-nyquist|ハリー・ナイキスト]]"
 source:
   - https://controlabo.com/internal-stability/

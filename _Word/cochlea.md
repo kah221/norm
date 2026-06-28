@@ -8,13 +8,13 @@ tags:
   - 分野/音響学
   - 要素/概念
 up:
-  - "[[内耳]]"
+  - "[[_Word/inner-ear|内耳]]"
 sibling:
-  - "[[三半規管]]"
-  - "[[前庭]]"
+  - "[[_Word/semicircular-canals|三半規管]]"
+  - "[[_Word/vestibule|前庭]]"
 person:
-  - "[[ゲオルク・フォン・ベーケーシ]]"
-  - "[[アルフォンソ・コルティ]]"
+  - "[[_Name/georg-von-bekesy|ゲオルク・フォン・ベーケーシ]]"
+  - "[[_Name/alfonso-corti|アルフォンソ・コルティ]]"
 source:
   - https://ja.wikipedia.org/wiki/蝸牛
 ---

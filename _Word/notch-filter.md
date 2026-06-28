@@ -10,15 +10,15 @@ tags:
   - 分野/信号処理
   - 要素/モデル・数式
 up:
-  - "[[帯域除去フィルタ]]"
-  - "[[フィルタ]]"
+  - "[[_Word/band-elimination-filter|帯域除去フィルタ]]"
+  - "[[_Word/filter|フィルタ]]"
 sibling:
-  - "[[ローパスフィルタ]]"
-  - "[[バンドパスフィルタ]]"
-  - "[[_Word/input-shaping]]"
-  - "[[ハイパスフィルタ]]"
+  - "[[_Word/low-pass-filter|ローパスフィルタ]]"
+  - "[[_Word/band-pass-filter|バンドパスフィルタ]]"
+  - "[[_Word/input-shaping|入力整形法]]"
+  - "[[_Word/high-pass-filter|ハイパスフィルタ]]"
 pair:
-  - "[[バンドパスフィルタ]]"
+  - "[[_Word/band-pass-filter|バンドパスフィルタ]]"
 person:
 source:
   - https://taketake2.com/K12.html

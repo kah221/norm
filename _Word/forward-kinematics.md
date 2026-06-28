@@ -10,7 +10,7 @@ tags:
   - 要素/概念
 up: 運動学
 sibling:
-pair: "[[_Word/inverse-kinematics|inverse-kinematics]]"
+pair: "[[_Word/inverse-kinematics|逆運動学]]"
 person: ジャック・デナビット，リチャード・ハーテンバーグ
 source: https://www.jsme.or.jp/jsme-medwiki/14:1005677
 ---

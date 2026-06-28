@@ -8,14 +8,14 @@ tags:
   - 分野/制御工学/古典制御
   - 要素/概念
 up:
-  - "[[安定性]]"
+  - "[[_Word/stability|安定性]]"
 sibling:
-  - "[[_Word/closed-loop-stability]]"
-  - "[[内部安定性]]"
+  - "[[_Word/closed-loop-stability|閉ループ安定性]]"
+  - "[[_Word/internal-stability|内部安定性]]"
 pair:
-  - "[[_Word/closed-loop-stability]]"
+  - "[[_Word/closed-loop-stability|閉ループ安定性]]"
 person:
-  - "[[_Name/harry-nyquist|harry-nyquist]]"
+  - "[[_Name/harry-nyquist|ハリー・ナイキスト]]"
 source:
   - https://controlabo.com/open-loop-closed-loop/
 ---

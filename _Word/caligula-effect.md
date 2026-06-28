@@ -12,9 +12,9 @@ up:
 sibling:
   - "[[_Word/white-bear-effect|シロクマ効果]]"
   - "[[_Word/zeigarnik-effect|ツァイガルニク効果]]"
-  - "[[バーナム効果]]"
+  - "[[_Word/barnum-effect|バーナム効果]]"
 person:
-  - "[[ジャック・ブレーム]]"
+  - "[[_Name/jack-brehm|ジャック・ブレーム]]"
 source:
   - https://ja.wikipedia.org/wiki/カリギュラ効果
 ---

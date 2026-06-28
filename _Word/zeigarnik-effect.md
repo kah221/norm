@@ -8,14 +8,14 @@ tags:
   - 分野/心理学
   - 要素/概念
 up:
-  - "[[記憶・動機づけ心理学]]"
-  - "[[_Word/psychological-reactance]]"
+  - "[[_Word/memory-and-motivation-psychology|記憶・動機づけ心理学]]"
+  - "[[_Word/psychological-reactance|心理的リアクタンス]]"
 sibling:
-  - "[[_Word/caligula-effect]]"
-  - "[[ピーク・エンドの法則]]"
+  - "[[_Word/caligula-effect|カリギュラ効果]]"
+  - "[[_Word/peak-end-rule|ピーク・エンドの法則]]"
 person:
-  - "[[ブルーマ・ツァイガルニク]]"
-  - "[[クルト・レヴィン]]"
+  - "[[_Name/bluma-zeigarnik|ブルーマ・ツァイガルニク]]"
+  - "[[_Name/kurt-lewin|クルト・レヴィン]]"
 source:
   - https://ja.wikipedia.org/wiki/ツァイガルニク効果
 ---

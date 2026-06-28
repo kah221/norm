@@ -10,7 +10,7 @@ tags:
   - 要素/概念
 up: 運動学
 sibling:
-pair: "[[_Word/forward-kinematics|forward-kinematics]]"
+pair: "[[_Word/forward-kinematics|順運動学]]"
 person: ドナルド・パイパー
 source: https://www.jstage.jst.go.jp/article/jrsj/34/3/34_34_167/_pdf
 ---

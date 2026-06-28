@@ -8,13 +8,13 @@ tags:
   - 分野/制御工学/古典制御
   - 要素/概念
 up:
-  - "[[制御系]]"
+  - "[[_Word/control-system|制御系]]"
 sibling:
-  - "[[フィードフォワード制御系]]"
-pair: "[[_Word/closed-loop-system|closed-loop-system]]"
+  - "[[_Word/feedforward-control-system|フィードフォワード制御系]]"
+pair: "[[_Word/closed-loop-system|閉ループシステム]]"
 person:
-  - "[[ジェームズ・ワット]]"
-  - "[[ノーバート・ウィーナー]]"
+  - "[[_Name/james-watt|ジェームズ・ワット]]"
+  - "[[_Name/norbert-wiener|ノーバート・ウィーナー]]"
 source:
   - https://ja.wikipedia.org/wiki/開ループ制御
 ---

@@ -9,12 +9,12 @@ tags:
   - 要素/概念
 up:
 sibling:
-  - "[[_Word/caligula-effect]]"
-  - "[[ブーメラン効果]]"
-  - "[[_Word/white-bear-effect]]"
+  - "[[_Word/caligula-effect|カリギュラ効果]]"
+  - "[[_Word/boomerang-effect|ブーメラン効果]]"
+  - "[[_Word/white-bear-effect|シロクマ効果]]"
 pair:
 person:
-  - "[[ジャック・ブレーム]]"
+  - "[[_Name/jack-brehm|ジャック・ブレーム]]"
 source:
   - https://ja.wikipedia.org/wiki/心理的リアクタンス
 ---
