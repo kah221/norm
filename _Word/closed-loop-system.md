@@ -1,8 +1,9 @@
 ---
 time: 2026-06-25T02:40
+jp: 閉ループシステム
+en: Closed-Loop System
 aliases:
   - 閉ループシステム
-  - Closed-Loop System
   - Closed-Loop Control System
   - フィードバック制御系
   - 閉ループ制御系
@@ -15,12 +16,12 @@ up:
   - "[[フィードバック制御]]"
 sibling:
   - "[[フィードフォワード制御系]]"
-source:
-  - https://ja.wikipedia.org/wiki/閉ループ制御
+pair: "[[_Word/open-loop-system|open-loop-system]]"
 person:
   - "[[ノーバート・ウィーナー]]"
   - "[[ハロルド・ブラック]]"
-pair: "[[_Word/開ループシステム|開ループシステム]]"
+source:
+  - https://ja.wikipedia.org/wiki/閉ループ制御
 ---
 # 閉ループシステム（Closed-Loop System）
 > フィードバックによって制御量の値と目標値とを比較し，それらを一致させるように訂正動作を行う制御システム．

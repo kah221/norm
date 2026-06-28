@@ -1,8 +1,9 @@
 ---
 time: 2026-06-25T02:57
+jp: 嘱託殺人
+en: Murder by Request
 aliases:
   - 嘱託殺人
-  - Murder by Request
   - Consensual Homicide
 tags:
   - 分野/法学
@@ -15,9 +16,9 @@ sibling:
   - "[[自殺幇助]]"
   - "[[自殺教唆]]"
   - "[[安楽死]]"
+person:
 source:
   - https://kotobank.jp/word/嘱託殺人罪-80160
-person:
 ---
 # 嘱託殺人（Murder by Request）
 > 被害者から自身を殺すよう依頼（嘱託）を受け，その依頼に基づいて加害者が被害者を殺害することで成立する犯罪（刑法202条）．

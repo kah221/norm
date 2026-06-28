@@ -1,23 +1,24 @@
 ---
 time: 2026-06-21T01:24
+jp: カルマンフィルタ
+en: Kalman Filter
 aliases:
   - カルマンフィルタ
-  - Kalman Filter
   - KF
 tags:
   - 分野/制御工学/現代制御
   - 要素/手法・アルゴリズム
   - 分野/信号処理
 up:
-  - "[[_Word/オブザーバ|オブザーバ]]"
+  - "[[_Word/observer|observer]]"
 sibling:
-  - 拡張カルマンフィルタ
+  - "[[拡張カルマンフィルタ]]"
   - "[[同一次元オブザーバ]]"
-  - 粒子フィルタ
-source: https://ja.wikipedia.org/wiki/カルマンフィルター
+  - "[[粒子フィルタ]]"
 person:
-  - ルドルフ・カルマン
-  - リチャード・ビューシー
+  - "[[ルドルフ・カルマン]]"
+  - "[[リチャード・ビューシー]]"
+source: https://ja.wikipedia.org/wiki/カルマンフィルター
 ---
 # カルマンフィルタ（Kalman Filter, KF）
 > ノイズを含む一連の観測データから，対象の動的な状態を最適に推定・予測する再帰的なアルゴリズム．

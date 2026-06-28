@@ -1,9 +1,10 @@
 ---
 time: 2026-06-21T16:59
+jp: ハリー・ナイキスト
+en: Harry Nyquist
 aliases:
   - ハリー・ナイキスト
   - ナイキスト
-eng_name: Harry Nyquist
 born: 1889
 died: 1976
 nationality:

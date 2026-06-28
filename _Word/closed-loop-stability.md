@@ -1,24 +1,25 @@
 ---
 time: 2026-06-26T02:13
+jp: 閉ループ安定性
+en: Closed-Loop Stability
 aliases:
   - 閉ループ安定性
-  - Closed-Loop Stability
 tags:
   - 分野/制御工学/古典制御
   - 要素/概念
 up:
   - "[[安定性]]"
 sibling:
-  - "[[開ループ安定性]]"
+  - "[[_Word/open-loop-stability|開ループ安定性]]"
   - "[[内部安定性]]"
 pair:
-  - "[[開ループ安定性]]"
-source:
-  - https://controlabo.com/internal-stability/
+  - "[[_Word/open-loop-stability|開ループ安定性]]"
 person:
   - "[[エドワード・ラウス]]"
   - "[[アドルフ・フルビッツ]]"
-  - "[[ハリー・ナイキスト]]"
+  - "[[_Name/harry-nyquist|ハリー・ナイキスト]]"
+source:
+  - https://controlabo.com/internal-stability/
 ---
 # 閉ループ安定性（Closed-Loop Stability）
 > フィードバックループを閉じた状態での制御系全体の安定性．閉ループ伝達関数の極がすべて複素平面の左半面に存在することが条件．

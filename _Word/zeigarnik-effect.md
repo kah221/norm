@@ -1,22 +1,23 @@
 ---
 time: 2026-06-24T02:13
+jp: ツァイガルニク効果
+en: Zeigarnik Effect
 aliases:
   - ツァイガルニク効果
-  - Zeigarnik Effect
 tags:
   - 分野/心理学
   - 要素/概念
 up:
   - "[[記憶・動機づけ心理学]]"
-  - "[[心理的リアクタンス]]"
+  - "[[_Word/psychological-reactance]]"
 sibling:
-  - "[[カリギュラ効果]]"
+  - "[[_Word/caligula-effect]]"
   - "[[ピーク・エンドの法則]]"
-source:
-  - https://ja.wikipedia.org/wiki/ツァイガルニク効果
 person:
   - "[[ブルーマ・ツァイガルニク]]"
   - "[[クルト・レヴィン]]"
+source:
+  - https://ja.wikipedia.org/wiki/ツァイガルニク効果
 ---
 # ツァイガルニク効果（Zeigarnik Effect）
 > 未完了・中断されたタスクや活動を，完了したものより長く記憶に残す心理現象．

@@ -1,17 +1,18 @@
 ---
 time: 2026-06-21T01:30
+jp: 順運動学
+en: Forward Kinematics
 aliases:
   - 順運動学
-  - Forward Kinematics
   - FK
 tags:
   - 分野/機構学
   - 要素/概念
 up: 運動学
 sibling:
-source: https://www.jsme.or.jp/jsme-medwiki/14:1005677
+pair: "[[_Word/inverse-kinematics|inverse-kinematics]]"
 person: ジャック・デナビット，リチャード・ハーテンバーグ
-pair: "[[_Word/逆運動学|逆運動学]]"
+source: https://www.jsme.or.jp/jsme-medwiki/14:1005677
 ---
 # 順運動学（Forward Kinematics, FK）
 > マニピュレータなどロボットのリンク機構において，アクチュエータにより駆動される関節の変位が与えられたとき，リンク機構先端部にあるハンドなど先端効果器の位置・姿勢を求める問題．

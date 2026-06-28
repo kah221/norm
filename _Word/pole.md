@@ -1,23 +1,24 @@
 ---
 time: 2026-06-21T01:56
+jp: 極
+en: Pole
 aliases:
   - 極
-  - Pole
 tags:
   - 分野/制御工学/古典制御
   - 要素/概念
 up:
   - "[[伝達関数]]"
 sibling:
-  - "[[_Word/根|根]]"
-  - "[[_Word/根軌跡|根軌跡]]"
-source: https://www.jsme.or.jp/kaisi/1254-36/
+  - "[[_Word/root|root]]"
+  - "[[_Word/root-locus|root-locus]]"
+pair: "[[_Word/zero|zero]]"
 person:
-  - ウォルター・エヴァンス
+  - "[[_Name/walter-r-evans|ウォルター・リチャード・エヴァンス]]"
   - エドワード・ラウス
   - アドルフ・フルビッツ
-  - "[[_Name/ハリー・ナイキスト|ハリー・ナイキスト]]"
-pair: "[[_Word/零点|零点]]"
+  - "[[_Name/harry-nyquist|harry-nyquist]]"
+source: https://www.jsme.or.jp/kaisi/1254-36/
 ---
 # 極（Pole）
 > 伝達関数の分母多項式を零とする方程式の解

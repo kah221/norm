@@ -1,17 +1,18 @@
 ---
 time: 2026-06-21T01:36
+jp: 逆運動学
+en: Inverse Kinematics
 aliases:
   - 逆運動学
-  - Inverse Kinematics
   - IK
 tags:
   - 分野/機構学
   - 要素/概念
 up: 運動学
 sibling:
-source: https://www.jstage.jst.go.jp/article/jrsj/34/3/34_34_167/_pdf
+pair: "[[_Word/forward-kinematics|forward-kinematics]]"
 person: ドナルド・パイパー
-pair: "[[_Word/順運動学|順運動学]]"
+source: https://www.jstage.jst.go.jp/article/jrsj/34/3/34_34_167/_pdf
 ---
 # 逆運動学（Inverse Kinematics, IK）
 > エンドエフェクタの目標位置・姿勢を実現するために必要な関節変位（角度・直動量）を求める運動学の問題．

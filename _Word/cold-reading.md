@@ -1,8 +1,9 @@
 ---
 time: 2026-06-24T02:25
+jp: コールドリーディング
+en: Cold Reading
 aliases:
   - コールドリーディング
-  - Cold Reading
 tags:
   - 分野/心理学
   - 要素/手法・アルゴリズム
@@ -11,13 +12,13 @@ up:
 sibling:
   - "[[ホットリーディング]]"
   - "[[バーナム効果]]"
-  - "[[カリギュラ効果]]"
-source:
-  - https://note.com/chiri_chiriri/n/n1bd0d5f5c42f
+  - "[[_Word/caligula-effect|カリギュラ効果]]"
 person:
   - "[[レイ・ハイマン]]"
   - "[[バートラム・フォアラー]]"
   - "[[石井裕之]]"
+source:
+  - https://note.com/chiri_chiriri/n/n1bd0d5f5c42f
 ---
 # コールドリーディング（Cold Reading）
 > 事前情報なしに，相手の外見・言動・反応などを観察・活用することで，相手に「自分のことをよく理解されている」と感じさせる会話・観察の技法．

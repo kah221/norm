@@ -1,8 +1,9 @@
 ---
 time: 2026-06-25T14:06
+jp: 蝸牛
+en: Cochlea
 aliases:
   - 蝸牛
-  - Cochlea
 tags:
   - 分野/音響学
   - 要素/概念
@@ -11,12 +12,11 @@ up:
 sibling:
   - "[[三半規管]]"
   - "[[前庭]]"
-pair:
-source:
-  - https://ja.wikipedia.org/wiki/蝸牛
 person:
   - "[[ゲオルク・フォン・ベーケーシ]]"
   - "[[アルフォンソ・コルティ]]"
+source:
+  - https://ja.wikipedia.org/wiki/蝸牛
 ---
 # 蝸牛（Cochlea）
 > 内耳にあり聴覚を司る感覚器官である蝸牛管が納まっている，側頭骨の空洞．

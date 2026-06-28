@@ -1,8 +1,9 @@
 ---
 time: 2026-06-25T02:25
+jp: 零点
+en: Zero
 aliases:
   - 零点
-  - Zero
 tags:
   - 分野/制御工学/古典制御
   - 要素/概念
@@ -10,13 +11,13 @@ tags:
 up:
   - "[[伝達関数]]"
 sibling:
-  - "[[極]]"
-  - "[[根]]"
-source:
-  - https://blog.control-theory.com/entry/2024/08/19/182817
+  - "[[_Word/pole]]"
+  - "[[_Word/root]]"
+pair: "[[_Word/pole|pole]]"
 person:
   - "[[ヘンドリック・ボーデ]]"
-pair: "[[_Word/極|極]]"
+source:
+  - https://blog.control-theory.com/entry/2024/08/19/182817
 ---
 # 零点（Zero）
 > 伝達関数の分子多項式を零とする $s$ の値

@@ -1,8 +1,9 @@
 ---
 time: 2026-06-26T14:04
+jp: ノッチフィルタ
+en: Notch Filter
 aliases:
   - ノッチフィルタ
-  - Notch Filter
   - Band-Stop Filter
 tags:
   - 分野/制御工学/古典制御
@@ -12,14 +13,15 @@ up:
   - "[[帯域除去フィルタ]]"
   - "[[フィルタ]]"
 sibling:
-  - "[[ローパスフィルタ:ハイパスフィルタ]]"
+  - "[[ローパスフィルタ]]"
   - "[[バンドパスフィルタ]]"
-  - "[[入力整形法]]"
+  - "[[_Word/input-shaping]]"
+  - "[[ハイパスフィルタ]]"
 pair:
   - "[[バンドパスフィルタ]]"
+person:
 source:
   - https://taketake2.com/K12.html
-person:
 ---
 # ノッチフィルタ（Notch Filter）
 > 特定の帯域の周波数成分をピンポイントで除去する帯域除去フィルタの一種．

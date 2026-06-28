@@ -1,8 +1,9 @@
 ---
 time: 2026-06-26T02:27
+jp: ベクトル軌跡
+en: Vector Locus
 aliases:
-  - "ベクトル軌跡"
-  - "Vector Locus"
+  - ベクトル軌跡
 tags:
   - 分野/制御工学/古典制御
   - 要素/手法・アルゴリズム
@@ -13,11 +14,10 @@ sibling:
   - "[[ニコルス線図]]"
   - "[[根軌跡法]]"
 pair:
-source:
-  - "https://controlabo.com/vector-locus/"
 person:
-  - "[[ハリー・ナイキスト]]"
-
+  - "[[_Name/harry-nyquist]]"
+source:
+  - https://controlabo.com/vector-locus/
 ---
 # ベクトル軌跡（Vector Locus）
 > 伝達関数の周波数伝達関数 $G(jω)$ を複素平面上にプロットし，$ω$ を $0$ から $∞$ まで変化させたときの軌跡．ゲインは原点からの距離，位相はベクトルの角度として表現される．

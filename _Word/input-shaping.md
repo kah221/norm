@@ -1,9 +1,10 @@
 ---
 time: 2026-06-26T13:47
+jp: 入力整形法
+en: Input Shaping
 aliases:
-  - "入力整形法"
-  - "Input Shaping"
-  - "IS"
+  - 入力整形法
+  - IS
 tags:
   - 分野/制御工学/古典制御
   - 分野/機構学
@@ -12,17 +13,16 @@ up:
   - "[[フィードフォワード制御]]"
   - "[[振動制御]]"
 sibling:
-  - "[[ポジキャスト制御]]"
+  - "[[_Word/posicast-control|ポジキャスト制御]]"
   - "[[ノッチフィルタ制御]]"
   - "[[LQR]]"
 pair:
-source:
-  - "https://grokipedia.com/page/Input_shaping"
 person:
   - "[[ニール・シンガー]]"
   - "[[ウォーレン・シアリング]]"
   - "[[ウィリアム・シンゴース]]"
-
+source:
+  - https://grokipedia.com/page/Input_shaping
 ---
 # 入力整形法（Input Shaping, IS）
 > 柔軟な機械システムへの指令入力を，システムの固有振動数と減衰比に基づいて算出した振幅・時間遅れを持つインパルス列との畳み込み演算によって整形し，残留振動を低減または消去するフィードフォワード制御手法．

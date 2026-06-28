@@ -1,8 +1,9 @@
 ---
 time: 2026-06-25T12:43
+jp: 根軌跡
+en: Root Locus
 aliases:
   - 根軌跡
-  - Root Locus
   - Root Locus Method
   - 根軌跡法
 tags:
@@ -14,10 +15,10 @@ sibling:
   - "[[ナイキストの安定判別法]]"
   - "[[ボード線図]]"
   - "[[フルビッツ・ラウスの安定判別法]]"
+person:
+  - "[[_Name/walter-r-evans|ウォルター・リチャード・エヴァンス]]"
 source:
   - https://tajimarobotics.com/main-root-locus/
-person:
-  - "[[ウォルター・エヴァンス]]"
 ---
 # 根軌跡（Root Locus）
 > 閉ループゲインを変化させたときの閉ループ伝達関数の極（特性方程式の根）の軌跡を複素平面上に描き，安定性や過渡応答特性を解析・設計する手法．

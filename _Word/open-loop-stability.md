@@ -1,22 +1,23 @@
 ---
 time: 2026-06-26T02:07
+jp: 開ループ安定性
+en: Open-Loop Stability
 aliases:
   - 開ループ安定性
-  - Open-Loop Stability
 tags:
   - 分野/制御工学/古典制御
   - 要素/概念
 up:
   - "[[安定性]]"
 sibling:
-  - "[[閉ループ安定性]]"
+  - "[[_Word/closed-loop-stability]]"
   - "[[内部安定性]]"
 pair:
-  - "[[閉ループ安定性]]"
+  - "[[_Word/closed-loop-stability]]"
+person:
+  - "[[_Name/harry-nyquist|harry-nyquist]]"
 source:
   - https://controlabo.com/open-loop-closed-loop/
-person:
-  - "[[_Name/ハリー・ナイキスト|ハリー・ナイキスト]]"
 ---
 # 開ループ安定性（Open-Loop Stability）
 > フィードバックループを切り開いた状態，すなわち制御対象 P(s) と制御器 C(s) の直列接続のみで構成される開ループ系における安定性．

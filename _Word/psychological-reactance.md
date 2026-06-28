@@ -1,21 +1,22 @@
 ---
 time: 2026-06-26T03:24
+jp: 心理的リアクタンス
+en: Psychological Reactance
 aliases:
   - 心理的リアクタンス
-  - Psychological Reactance
 tags:
   - 分野/心理学
   - 要素/概念
 up:
 sibling:
-  - "[[カリギュラ効果]]"
+  - "[[_Word/caligula-effect]]"
   - "[[ブーメラン効果]]"
-  - "[[シロクマ効果]]"
+  - "[[_Word/white-bear-effect]]"
 pair:
-source:
-  - https://ja.wikipedia.org/wiki/心理的リアクタンス
 person:
   - "[[ジャック・ブレーム]]"
+source:
+  - https://ja.wikipedia.org/wiki/心理的リアクタンス
 ---
 # 心理的リアクタンス（Psychological Reactance）
 > 自分の自由が奪われそうになったときに，それに対して心理的な抵抗や反発が起こる心理現象．

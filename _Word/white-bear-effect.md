@@ -1,8 +1,9 @@
 ---
 time: 2026-06-24T02:19
+jp: シロクマ効果
+en: White Bear Effect
 aliases:
   - シロクマ効果
-  - White Bear Effect
   - Ironic Rebound Effect
 tags:
   - 分野/心理学
@@ -10,14 +11,14 @@ tags:
 up:
   - "[[皮肉過程理論]]"
   - "[[思考抑制]]"
-  - "[[心理的リアクタンス]]"
+  - "[[_Word/psychological-reactance]]"
 sibling:
-  - "[[ツァイガルニク効果]]"
-  - "[[カリギュラ効果]]"
-source:
-  - https://everyday-evident.net/white-bear-effect/
+  - "[[_Word/zeigarnik-effect]]"
+  - "[[_Word/caligula-effect|カリギュラ効果]]"
 person:
   - "[[ダニエル・ウェグナー]]"
+source:
+  - https://everyday-evident.net/white-bear-effect/
 ---
 # シロクマ効果（White Bear Effect）
 > ある考えを頭から追い出そうとすると，かえってその考えが頭から離れなくなるという心理現象．

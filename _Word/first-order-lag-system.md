@@ -1,8 +1,9 @@
 ---
 time: 2026-06-25T02:31
+jp: 1次遅れ系
+en: First-Order Lag System
 aliases:
   - 1次遅れ系
-  - First-Order Lag System
 tags:
   - 分野/制御工学/古典制御
   - 分野/信号処理
@@ -11,14 +12,14 @@ up:
   - "[[伝達関数]]"
   - "[[線形時不変システム]]"
 sibling:
-  - "[[2次遅れ系]]"
+  - "[[_Word/second-order-lag-system|2次遅れ系]]"
   - "[[積分要素]]"
   - "[[比例要素]]"
   - "[[無駄時間要素]]"
-source:
-  - https://eng.kice.tokyo/control/delay-element/
 person:
   - "[[ヘンドリック・ボーデ]]"
+source:
+  - https://eng.kice.tokyo/control/delay-element/
 ---
 # 1次遅れ系（First-Order Lag System）
 > 伝達関数の最高次数が1であり，入力に対して出力が指数関数的に遅れて追従するシステム．

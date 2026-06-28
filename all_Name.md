@@ -1,3 +1,3 @@
 260621_1710
 
-[ハリー・ナイキスト](_Name/ハリー・ナイキスト.md)，
+[harry-nyquist](_Name/harry-nyquist.md)，

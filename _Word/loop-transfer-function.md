@@ -1,8 +1,9 @@
 ---
 time: 2026-06-26T01:54
+jp: 一巡伝達関数
+en: Loop Transfer Function
 aliases:
   - 一巡伝達関数
-  - Loop Transfer Function
   - L(s)
 tags:
   - 分野/制御工学/古典制御
@@ -15,11 +16,11 @@ sibling:
   - "[[開ループ伝達関数]]"
 pair:
   - "[[閉ループ伝達関数]]"
+person:
+  - "[[_Name/harry-nyquist]]"
+  - "[[ヘンドリック・ボーデ]]"
 source:
   - https://controlabo.com/open-loop-closed-loop/
-person:
-  - "[[ハリー・ナイキスト]]"
-  - "[[ヘンドリック・ボーデ]]"
 ---
 # 一巡伝達関数（Loop Transfer Function, L(s)）
 > フィードバック系においてループをある点で切り開き，そこに試験信号を入れてループを一巡させたときの入出力比．

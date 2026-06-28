@@ -1,8 +1,9 @@
 ---
 time: 2026-06-25T02:47
+jp: 開ループシステム
+en: Open-Loop System
 aliases:
   - 開ループシステム
-  - Open-Loop System
 tags:
   - 分野/制御工学/古典制御
   - 要素/概念
@@ -10,12 +11,12 @@ up:
   - "[[制御系]]"
 sibling:
   - "[[フィードフォワード制御系]]"
-source:
-  - https://ja.wikipedia.org/wiki/開ループ制御
+pair: "[[_Word/closed-loop-system|closed-loop-system]]"
 person:
   - "[[ジェームズ・ワット]]"
   - "[[ノーバート・ウィーナー]]"
-pair: "[[_Word/閉ループシステム|閉ループシステム]]"
+source:
+  - https://ja.wikipedia.org/wiki/開ループ制御
 ---
 # 開ループシステム（Open-Loop System）
 > 制御対象の状態を計測せずに，あらかじめ定めた制御入力をそのまま制御対象に加える制御システム．

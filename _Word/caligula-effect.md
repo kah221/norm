@@ -1,21 +1,22 @@
 ---
 time: 2026-06-24T12:36
+jp: カリギュラ効果
+en: Caligula Effect
 aliases:
   - カリギュラ効果
-  - Caligula Effect
 tags:
   - 分野/心理学
   - 要素/概念
 up:
-  - "[[心理的リアクタンス]]"
+  - "[[_Word/psychological-reactance|心理的リアクタンス]]"
 sibling:
-  - "[[シロクマ効果]]"
-  - "[[ツァイガルニク効果]]"
+  - "[[_Word/white-bear-effect|シロクマ効果]]"
+  - "[[_Word/zeigarnik-effect|ツァイガルニク効果]]"
   - "[[バーナム効果]]"
-source:
-  - https://ja.wikipedia.org/wiki/カリギュラ効果
 person:
   - "[[ジャック・ブレーム]]"
+source:
+  - https://ja.wikipedia.org/wiki/カリギュラ効果
 ---
 # カリギュラ効果（Caligula Effect）
 > 禁止や制限が課せられると，かえってその対象への興味・欲求が増す心理現象．

@@ -1,23 +1,24 @@
 ---
 time: 2026-06-26T02:32
+jp: ナイキスト線図
+en: Nyquist Plot
 aliases:
   - ナイキスト線図
-  - Nyquist Plot
   - Nyquist Diagram
 tags:
   - 分野/手法・アルゴリズム
   - 分野/制御工学/古典制御
 up:
-  - "[[ベクトル軌跡]]"
+  - "[[_Word/vector-locus]]"
 sibling:
   - "[[ボード線図]]"
   - "[[ニコルス線図]]"
   - "[[根軌跡法]]"
 pair:
+person:
+  - "[[_Name/harry-nyquist|harry-nyquist]]"
 source:
   - https://controlabo.com/nyquist-stability-criterion/
-person:
-  - "[[_Name/ハリー・ナイキスト|ハリー・ナイキスト]]"
 ---
 # ナイキスト線図（Nyquist Plot）
 > 開ループ伝達関数のベクトル軌跡を応用し，ナイキスト安定判別法によってフィードバック制御系の閉ループ安定性を図式的に判別するための線図．

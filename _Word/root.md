@@ -1,20 +1,21 @@
 ---
 time: 2026-06-21T01:48
+jp: 根
+en: Root
 aliases:
   - 根
-  - Root
 tags:
   - 分野/制御工学/古典制御
   - 要素/概念
 up:
 sibling:
-  - "[[_Word/極|極]]"
-  - "[[_Word/零点|零点]]"
-source: https://ja.wikipedia.org/wiki/古典制御論
+  - "[[_Word/pole|pole]]"
+  - "[[_Word/zero|zero]]"
 person:
-  - ウォルター・エヴァンス
+  - "[[_Name/walter-r-evans|ウォルター・リチャード・エヴァンス]]"
   - エドワード・ラウス
   - アドルフ・フルビッツ
+source: https://ja.wikipedia.org/wiki/古典制御論
 ---
 # 根（Root）
 > 特性方程式（伝達関数の分母多項式=0とした方程式）を満たす複素数 s の値．

@@ -1,8 +1,9 @@
 ---
 time: 2026-06-24T02:29
+jp: サイドチェイン
+en: Sidechain
 aliases:
   - サイドチェイン
-  - Sidechain
 tags:
   - 分野/音楽理論
   - 要素/手法・アルゴリズム
@@ -14,10 +15,10 @@ sibling:
   - "[[ディエッサー]]"
   - "[[ゲート]]"
   - "[[ポンピング効果]]"
-source:
-  - https://www.ableton.com/ja/blog/sidechain-compression-part-1/
 person:
   - "[[ダグラス・シアラー]]"
+source:
+  - https://www.ableton.com/ja/blog/sidechain-compression-part-1/
 ---
 # サイドチェイン（Sidechain）
 > あるエフェクト（主にコンプレッサー）のかかり具合を，処理対象のトラックではなく別の外部音声信号をトリガーとしてコントロールする手法．
