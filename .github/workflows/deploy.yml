@@ -33,6 +33,8 @@ jobs:
         run: npx quartz plugin install
       - name: Build Quartz
         run: npx quartz build -d .
+      - name: Copy standalone HTML pages
+        run: cp umami-toggle.html public/
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
