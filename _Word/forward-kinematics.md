@@ -8,7 +8,8 @@ aliases:
 tags:
   - 分野/機構学
   - 要素/概念
-up: 運動学
+up:
+  - "[[_Word/kinematics|運動学]]"
 sibling:
 pair: "[[_Word/inverse-kinematics|逆運動学]]"
 person: ジャック・デナビット，リチャード・ハーテンバーグ

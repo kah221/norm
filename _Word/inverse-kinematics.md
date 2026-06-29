@@ -8,7 +8,8 @@ aliases:
 tags:
   - 分野/機構学
   - 要素/概念
-up: 運動学
+up:
+  - "[[_Word/kinematics|運動学]]"
 sibling:
 pair: "[[_Word/forward-kinematics|順運動学]]"
 person: ドナルド・パイパー

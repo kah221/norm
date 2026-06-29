@@ -6,7 +6,7 @@ aliases:
   - ナイキスト線図
   - Nyquist Diagram
 tags:
-  - 分野/手法・アルゴリズム
+  - 要素/手法・アルゴリズム
   - 分野/制御工学/古典制御
 up:
   - "[[_Word/vector-locus|ベクトル軌跡]]"

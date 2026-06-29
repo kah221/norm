@@ -31,3 +31,13 @@
 [bode-plot](_Word/bode-plot.md)，
 [bode-plot](_Word/bode-plot.md)，
 [ボード線図（Bode Plot）](_Word/bode-plot.md)，
+[耳音響放射（じおんきょうほうしゃ, Otoacoustic Emission, OAE）](_Word/otoacoustic-emission.md)，
+[音脈分凝（おんみゃくぶんぎょう, Auditory Stream Segregation, ASS）](_Word/auditory-stream-segregation.md)，
+[マガーク効果（McGurk Effect）](_Word/mcgurk-effect.md)，
+[ウェルニッケ野（Wernicke's Area）](_Word/wernicke's-area.md)，
+[ブローカ野（Broca's Area）](_Word/broca's-area.md)，
+[管理医療機器（Controlled Medical Device）](_Word/controlled-medical-device.md)，
+[認定補聴器技能者（Certified Hearing Aid Technician）](_Word/certified-hearing-aid-technician.md)，
+[ウィリアムズ症候群（Williams Syndrome, WS）](_Word/williams-syndrome.md)，
+[聴覚過敏（Hyperacusis）](_Word/hyperacusis.md)，
+[補充現象（Auditory Recruitment）](_Word/auditory-recruitment.md)，
