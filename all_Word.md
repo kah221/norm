@@ -41,3 +41,5 @@
 [ウィリアムズ症候群（Williams Syndrome, WS）](_Word/williams-syndrome.md)，
 [聴覚過敏（Hyperacusis）](_Word/hyperacusis.md)，
 [補充現象（Auditory Recruitment）](_Word/auditory-recruitment.md)，
+[ナイキスト経路（Nyquist Path）](_Word/nyquist-path.md)，
+[ナイキスト経路（Nyquist Path）](_Word/nyquist-path.md)，

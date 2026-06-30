@@ -182,7 +182,7 @@ plugins:
         linkDistance: 150
         fontSize: 0.7
         opacityScale: 5
-        showTags: false
+        showTags: true
     layout:
       position: right
       priority: 10
