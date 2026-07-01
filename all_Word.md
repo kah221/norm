@@ -43,3 +43,4 @@
 [補充現象（Auditory Recruitment）](_Word/auditory-recruitment.md)，
 [ナイキスト経路（Nyquist Path）](_Word/nyquist-path.md)，
 [ナイキスト経路（Nyquist Path）](_Word/nyquist-path.md)，
+[ナイキストの安定判別法（Nyquist Stability Criterion）](_Word/nyquist-stability-criterion.md)，

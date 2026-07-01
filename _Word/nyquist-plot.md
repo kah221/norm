@@ -10,6 +10,7 @@ tags:
   - 分野/制御工学/古典制御
 up:
   - "[[_Word/vector-locus|ベクトル軌跡]]"
+  - "[[_Word/nyquist-stability-criterion|ナイキストの安定判別法]]"
 sibling:
   - "[[_Word/bode-plot|ボード線図]]"
   - "[[_Word/nichols-plot|ニコルス線図]]"
