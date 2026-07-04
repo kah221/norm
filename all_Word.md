@@ -44,3 +44,12 @@
 [ナイキスト経路（Nyquist Path）](_Word/nyquist-path.md)，
 [ナイキスト経路（Nyquist Path）](_Word/nyquist-path.md)，
 [ナイキストの安定判別法（Nyquist Stability Criterion）](_Word/nyquist-stability-criterion.md)，
+[臨界安定;安定限界（Marginal Stability）](_Word/marginal-stability.md)，
+[プロパー（Proper）](_Word/proper.md)，
+[厳密にプロパー（Strictly proper）](_Word/strictly-proper.md)，
+[双プロパー（Biproper）](_Word/biproper.md)，
+[非プロパー（Improper）](_Word/improper.md)，
+[分母多項式（Denominator Polynomial）](_Word/denominator-polynomial.md)，
+[両側耳朶法（りょうそくじだほう, Bilateral Earlobe Reference）](_Word/bilateral-earlobe-reference.md)，
+[耳鳴末梢発生説（じめいまっしょうはっせいせつ, Peripheral Theory of Tinnitus）](_Word/peripheral-theory-of-tinnitus.md)，
+[耳鳴中枢説（じめいちゅうすうせつ, Central Theory of Tinnitus）](_Word/central-theory-of-tinnitus.md)，
