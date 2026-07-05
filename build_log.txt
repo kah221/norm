@@ -1,0 +1,15 @@
+
+ Quartz v5.0.0  
+
+Cleaned output directory `public` in 22ms
+Found 50 input files from `.` in 18ms
+Parsing input files using 1 threads
+Parsed 50 Markdown files in 558ms
+Filtered out 0 files in 62ﾎｼs
+Emitting files
+Emitted 299 files to `public` in 6s
+Done processing 50 files in 6s
+Started a Quartz server listening at http://localhost:8080
+hint: exit with ctrl+c
+バッチ ジョブを終了しますか (Y/N)? 
+^C
