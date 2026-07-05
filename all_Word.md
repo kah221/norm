@@ -53,3 +53,6 @@
 [両側耳朶法（りょうそくじだほう, Bilateral Earlobe Reference）](_Word/bilateral-earlobe-reference.md)，
 [耳鳴末梢発生説（じめいまっしょうはっせいせつ, Peripheral Theory of Tinnitus）](_Word/peripheral-theory-of-tinnitus.md)，
 [耳鳴中枢説（じめいちゅうすうせつ, Central Theory of Tinnitus）](_Word/central-theory-of-tinnitus.md)，
+[包囲（Encirclement）](_Word/encirclement.md)，
+[囲い込み（Enclosure, $s$平面上のナイキスト経路（閉曲線）が，右半面に存在する極や零点をその内側に含んでいること．）](_Word/enclosure.md)，
+[むだ時間（Dead Time, L）](_Word/dead-time.md)，
