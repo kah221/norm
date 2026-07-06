@@ -58,3 +58,5 @@
 [むだ時間（Dead Time, L）](_Word/dead-time.md)，
 [最小位相系（Minimum Phase System, MPS）](_Word/minimum-phase-system.md)，
 [線形時不変（Linear Time-Invariant, LTI）](_Word/linear-time-invariant.md)，
+[零位相フィルタリング（Zero-Phase Filtering）](_Word/zero-phase-filtering.md)，
+[因果フィルタ（Causal Filter）](_Word/causal-filter.md)，
