@@ -57,3 +57,4 @@
 [囲い込み（Enclosure, $s$平面上のナイキスト経路（閉曲線）が，右半面に存在する極や零点をその内側に含んでいること．）](_Word/enclosure.md)，
 [むだ時間（Dead Time, L）](_Word/dead-time.md)，
 [最小位相系（Minimum Phase System, MPS）](_Word/minimum-phase-system.md)，
+[線形時不変（Linear Time-Invariant, LTI）](_Word/linear-time-invariant.md)，
