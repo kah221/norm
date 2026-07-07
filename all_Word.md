@@ -60,3 +60,4 @@
 [線形時不変（Linear Time-Invariant, LTI）](_Word/linear-time-invariant.md)，
 [零位相フィルタリング（Zero-Phase Filtering）](_Word/zero-phase-filtering.md)，
 [因果フィルタ（Causal Filter）](_Word/causal-filter.md)，
+[冪等性（べきとうせい, Idempotence）](_Word/idempotence.md)，
