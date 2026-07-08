@@ -61,3 +61,5 @@
 [零位相フィルタリング（Zero-Phase Filtering）](_Word/zero-phase-filtering.md)，
 [因果フィルタ（Causal Filter）](_Word/causal-filter.md)，
 [冪等性（べきとうせい, Idempotence）](_Word/idempotence.md)，
+[リカレントニューラルネットワーク（Recurrent Neural Network, RNN）](_Word/recurrent-neural-network.md)，
+[LSTM（Long Short-Term Memory, LSTM）](_Word/long-short-term-memory.md)，
