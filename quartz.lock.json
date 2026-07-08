@@ -170,9 +170,9 @@
         "subdir": "dashboard"
       },
       "resolved": "https://github.com/kah221/norm-style.git",
-      "commit": "9d47af4148537bf7b3c5b4b2a3de47115bac9c75",
+      "commit": "284fbdf1ab9228f127ba3ad6ef6a73b75bf47e48",
       "subdir": "dashboard",
-      "installedAt": "2026-07-06T16:29:23.384Z"
+      "installedAt": "2026-07-08T19:04:56.724Z"
     },
     "note-properties": {
       "source": "github:quartz-community/note-properties",
