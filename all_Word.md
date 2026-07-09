@@ -63,3 +63,6 @@
 [冪等性（べきとうせい, Idempotence）](_Word/idempotence.md)，
 [リカレントニューラルネットワーク（Recurrent Neural Network, RNN）](_Word/recurrent-neural-network.md)，
 [LSTM（Long Short-Term Memory, LSTM）](_Word/long-short-term-memory.md)，
+[2次遅れ系（Second-Order Lag System）](_Word/second-order-lag-system.md)，
+[写像（Maping）](_Word/maping.md)，
+[多価写像（Multivalued Mapping）](_Word/multivalued-mapping.md)，
