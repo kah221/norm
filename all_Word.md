@@ -64,5 +64,7 @@
 [リカレントニューラルネットワーク（Recurrent Neural Network, RNN）](_Word/recurrent-neural-network.md)，
 [LSTM（Long Short-Term Memory, LSTM）](_Word/long-short-term-memory.md)，
 [2次遅れ系（Second-Order Lag System）](_Word/second-order-lag-system.md)，
-[写像（Maping）](_Word/maping.md)，
+[写像（Maping）](_Word/mapping.md)，
 [多価写像（Multivalued Mapping）](_Word/multivalued-mapping.md)，
+[リカッチ方程式（Riccati Equation）](_Word/riccati-equation.md)，
+[リカッチ代数方程式（Algebraic Riccati Equation, ARE）](_Word/algebraic-riccati-equation.md)，
