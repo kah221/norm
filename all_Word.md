@@ -68,3 +68,6 @@
 [多価写像（Multivalued Mapping）](_Word/multivalued-mapping.md)，
 [リカッチ方程式（Riccati Equation）](_Word/riccati-equation.md)，
 [リカッチ代数方程式（Algebraic Riccati Equation, ARE）](_Word/algebraic-riccati-equation.md)，
+[同一次元オブザーバ（Full-Order Observer）](_Word/full-order-observer.md)，
+[有限要素法（Finite Element Method, FEM）](_Word/finite-element-method.md)，
+[位相進み要素（Lead Compensator）](_Word/lead-compensator.md)，

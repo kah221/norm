@@ -52,12 +52,12 @@ source:
 - $N$：$\Gamma_\Delta$ が臨界点$(0, 0)$ を"包囲"する回数，あるいは，ナイキスト線図が臨界点$(-1, j0)$ を"包囲"する回数
 
 **＜補足的＞**
-- 一巡伝達関数（Loop Transfer Function, $L(s)$）
-- 開ループ伝達関数（Open-Loop Transfer Function, $G(s)）
-- 閉ループ伝達関数（Closed-Loop Transfer Function, $M(s)$）
+- 一巡伝達関数（Loop Transfer Function, $\boldsymbol{L}(s)$）
+- 開ループ伝達関数（Open-Loop Transfer Function, $\boldsymbol{G}(s)$）
+- 閉ループ伝達関数（Closed-Loop Transfer Function, $\boldsymbol{M}(s)$）
 
 $$
-M(s) = \frac{G(s)}{1+G(s)H(s)} = \frac{G(s)}{1+L(s)}
+\boldsymbol{M}(s) = \frac{\boldsymbol{G}(s)}{1+ \boldsymbol{G}(s) \boldsymbol{H}(s)} = \frac{\boldsymbol{G} (s)}{1+ \boldsymbol{L}(s)}
 $$
 
 - 閉ループ特性方程式
@@ -66,8 +66,8 @@ $$
 
 $$
 \begin{align}
-1 + G(S)H(s) = 0 \\
-1 + L(s) = 0 \\
+1 + \boldsymbol{G}(S) \boldsymbol{H}(s) = 0 \\
+1 + \boldsymbol{L} (s) = 0 \\
 \Delta(s) = 0
 \end{align}
 $$
@@ -75,8 +75,10 @@ $$
 - 右半平面（Right-Half s-Plane, RHP）
 
 ### 1.1 一巡伝達関数と開ループ伝達関数の違い
-> 文献間で定義が異なる場合がある  
-> 
+>   一巡伝達関数 $\boldsymbol{L}(s) = \boldsymbol{G}(s) \boldsymbol{H}(s)$：ループ部分も含めた，入力から出力の伝達関数  
+>   開ループ伝達関数 $\boldsymbol{G} (s)$：
+
+文献間で定義が異なる場合がある
 
 ### 1.2 なぜ3つも平面があるか??
 > ナイキスト安定判別法の厳密な定義では 写像→平行移動 の2段階のプロットを経て，ナイキスト線図を得るため  
@@ -87,24 +89,24 @@ $$
 - 【$s$平面】の $\Gamma_s$
 	- ↓写像
 - 【$\Delta(s)$平面】の $\Gamma_\Delta$ 
-	- ↓平行移動（ $\Delta(s) = L(s) + 1$ ）
-- 【$L(s)$平面】の ナイキスト線図
+	- ↓平行移動（ $\Delta(s) = \boldsymbol{L}(s) + 1$ ）
+- 【$\boldsymbol{L}(s)$平面】の ナイキスト線図
 
 <img src="../_A/own/2026/07/202607_022710_nyquist-stability-criterion.webp" alt="" width="400">
 
 写像をとることで，$s$平面における全ての極を，$\Delta(s)$平面の原点という一点にもってくることができる．  
 →これを臨界点と定義する  
-平行移動は，単に $\Delta(s) = L(s) + 1$ と定義しているので，「開ループ伝達関数$L(s)$ の軌跡が欲しいなら平行移動すればok」ということ．
+平行移動は，単に $\Delta(s) = \boldsymbol{L}(s) + 1$ と定義しているので，「開ループ伝達関数$\boldsymbol{L}(s)$ の軌跡が欲しいなら平行移動すればok」ということ．
 
 ### 1.3 包囲
 [包囲](_Word/encirclement.md)を参照
 
 ### 1.4 公式 $N = Z - P$
 - $P$ ：開ループ極
-	- $L(s) = G(s)H(s)$ の極のうち，RHPにあるもの．
+	- $\boldsymbol{L}(s) = \boldsymbol{G}(s) \boldsymbol{H}(s)$ の極のうち，RHPにあるもの．
 	- フィードバックをかける前の開いたループの不安定さ
 - $Z$ ：閉ループ極
-	- $1 + L(s) = 0$ の根のうち，RHPにあるもの．
+	- $1 + \boldsymbol{L}(s) = 0$ の根のうち，RHPにあるもの．
 	- フィードバックをかけた後の，実用上の閉ループ系の不安定さ
 - 安定性を決めるのは $Z$ だけ
 	- $P$ がどんな値でも，$Z = 0$ であればそのシステムは安定．
@@ -151,15 +153,51 @@ $$
 		- なければ，「閉ループ安定」でない
 
 ## 3. 例題
-一巡伝達関数 $L(s)$ が次式で与えられる一般的なシステムに対して，「閉ループ安定性」を判別する．  
+### 問1 安定かどうかの判定
+一巡伝達関数 $\boldsymbol{L}(s)$ が次式で与えられる一般的なシステムに対して，「閉ループ安定性」を判別する．  
 一巡伝達関数は閉ループ部分も含めた入出力比のこと．  
 ナイキスト安定判別法では，「閉ループ極」の位置を特定せずに安定判別することができる．（画像1枚目冒頭で求めている極と零点は，開ループ極であって閉ループ極ではない．）
 
 $$
-L(s) = \frac{K}{s(s+1)}
+\boldsymbol{L}(s) = \frac{K}{s(s+1)}
 $$
 
 <img src="../_A/own/2026/07/202607_024723_nyquist-stability-criterion.webp" alt="" width="400">
 <img src="../_A/own/2026/07/202607_024734_nyquist-stability-criterion.webp" alt="" width="400">
 <img src="../_A/own/2026/07/202607_024742_nyquist-stability-criterion.webp" alt="" width="400">
 <img src="../_A/own/2026/07/202607_024747_nyquist-stability-criterion.webp" alt="" width="400">
+
+
+### 問2 閉ループ安定となる$K$の範囲
+ブロック線図と，ゲイン $K$ を含む開ループ伝達関数 $G(s)$ の式が与えられる．  
+これら2つから，一巡伝達関数 $L(s)$ を求め，ナイキスト安定判別法を適用し，安定条件でゲイン$K$ の範囲を求める．  
+★この問題は，[最小位相系](_Word/minimum-phase-system.md)であるので，ナイキスト線図全体をプロットせずに，ベクトル軌跡だけのプロットを行う方針で進める．
+
+#### 手順
+1. ブロック線図と開ループ伝達関数 $\boldsymbol{G}(s)$ から，一巡伝達関数 $\boldsymbol{L}(s)$ を求める
+2. 先に，[最小位相系](_Word/minimum-phase-system.md)(MPS)かどうかを確認
+	- 開ループ極を求め，それらの実部が全て負ならMPS（MPSならベクトル軌跡だけのプロットでok）
+3. $\boldsymbol{L}(s)$ に $s = j\omega$ を代入
+4. 分母分子共に実部と虚部に分ける
+5. 有理化する．（この式を $(*)$ とする）
+6. 分子だけに着目し，「虚部=0」を解く
+	- ベクトル軌跡が **実軸とぶつかる点** における角周波数 $\omega_0$ が数値で得られる
+7. $\omega_0$ を $(*)$ に代入する（$\boldsymbol{L}(j\omega_0)$ を求める） 
+	- 注意：$(*)$ の分子の虚部は0として無視してよい
+	- この段階で，ベクトル軌跡と実軸との交点の座標 $(-K/12, j0)$ が得られる
+8. {7.で得られた値} $> -1$　を解く
+	- 交点の座標と臨界点の座標の実部を比較している
+	- 閉ループ安定のためにはMPSなのでベクトル軌跡が[囲い込](_Word/enclosure.md)まなければokだが，向きに注意
+	- ベクトル軌跡を $\omega : \infty → 0$ と変化させたときの向きで，臨界点を常に右手に見ていれば囲い込まず安定
+	- （$\omega:0 → \infty$ の向きではない!!）
+	- ★臨界点を常に右手に見るためには，ベクトル軌跡は，-1よりも原点に近い側で実軸に交わればよい
+	- ⇔-1より大きければよい
+9. 最後に，$k > 0$ と合わせて，$0 < K < 12$ 
+
+<img src="../_A/own/2026/07/202607_121800_nyquist-stability-criterion.webp" alt="" width="400">
+
+
+### 問3 閉ループ安定となる$K$の範囲
+問2と同じ
+
+<img src="../_A/own/2026/07/202607_121819_nyquist-stability-criterion.webp" alt="" width="400">
