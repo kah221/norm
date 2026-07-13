@@ -71,3 +71,6 @@
 [同一次元オブザーバ（Full-Order Observer）](_Word/full-order-observer.md)，
 [有限要素法（Finite Element Method, FEM）](_Word/finite-element-method.md)，
 [位相進み要素（Lead Compensator）](_Word/lead-compensator.md)，
+[イースターエッグ（Easter Egg）](_Word/easter-egg.md)，
+[位相余裕（Phase Margin, PM）](_Word/phase-margin.md)，
+[ゲイン余裕（Gain Margin, GM）](_Word/gain-margin.md)，

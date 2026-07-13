@@ -3,7 +3,7 @@ time: 2026-07-05T02:50
 jp: 臨界安定
 en: Marginal Stability
 aliases:
-  - 臨界安定;安定限界
+  - 臨界安定
   - 安定限界
   - Critical Stability
 tags:
