@@ -41,10 +41,10 @@ g_m = 20 \: \mathrm{log}_{10} \: \frac{1}{\mathrm{OQ}} \: [\mathrm{dB}]
 $$
 あるいは $\mathrm{OQ}$ を周波数伝達関数から求めると，
 $$
-\begin{align}
+\begin{align*}
 g_m = \{ \: 20 \: \mathrm{log}_{10} \: 1 \: \} - \{ \: 20 \: \mathrm{log}_{10} \: |G(j\omega_{cp})H(j\omega_{cp})| \: \} \\\\
 = 20 \: \mathrm{log}_{10} \frac{1}{|G(j\omega_{cp})H(j\omega_{cp})|} \: [\mathrm{dB}]
-\end{align}
+\end{align*}
 $$
 
 ## 推奨値

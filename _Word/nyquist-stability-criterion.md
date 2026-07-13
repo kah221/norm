@@ -65,11 +65,11 @@ $$
 　これを解くことで閉ループ極が得られる
 
 $$
-\begin{align}
+\begin{align*}
 1 + \boldsymbol{G}(S) \boldsymbol{H}(s) = 0 \\
 1 + \boldsymbol{L} (s) = 0 \\
 \Delta(s) = 0
-\end{align}
+\end{align*}
 $$
 
 - 右半平面（Right-Half s-Plane, RHP）

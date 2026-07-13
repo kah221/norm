@@ -50,11 +50,11 @@ $$
 運動方程式は，  
 
 $$
-\begin{align}
+\begin{align*}
 m \ddot{x} + c \dot{x} + kx = u(t) \\
 \omega_n = \sqrt{\frac{k}{m}} \\
 \zeta = \frac{c}{2\sqrt{mk}}
-\end{align}
+\end{align*}
 $$
 
 
