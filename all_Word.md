@@ -74,3 +74,5 @@
 [イースターエッグ（Easter Egg）](_Word/easter-egg.md)，
 [位相余裕（Phase Margin, PM）](_Word/phase-margin.md)，
 [ゲイン余裕（Gain Margin, GM）](_Word/gain-margin.md)，
+[ゲイン交差周波数（Gain Crossover Frequency, $\omega_gc$）](_Word/gain-crossover-frequency.md)，
+[位相交差周波数（Phase Crossover Frequency）](_Word/phase-crossover-frequency.md)，
