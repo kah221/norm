@@ -9,7 +9,7 @@ aliases:
   - Phase Lead Compensator
 tags:
   - 分野/制御工学/古典制御
-  - 要素/手法・アルゴリズム
+  - 要素/モデル・数式
 up:
   - "[[_Word/compensator|補償器]]"
 sibling:

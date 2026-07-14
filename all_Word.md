@@ -80,3 +80,6 @@
 [可観測性（Observability）](_Word/observability.md)，
 [可制御性行列（Controllability Matrix）](_Word/controllability-matrix.md)，
 [可観測性行列（Observability Matrix）](_Word/observability-matrix.md)，
+[減衰比（Damping Ratio）](_Word/damping-ratio.md)，
+[整定時間（Settling Time）](_Word/settling-time.md)，
+[ラプラス変換（Laplace Transform, L）](_Word/laplace-transform.md)，
