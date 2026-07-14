@@ -54,7 +54,7 @@
 [耳鳴末梢発生説（じめいまっしょうはっせいせつ, Peripheral Theory of Tinnitus）](_Word/peripheral-theory-of-tinnitus.md)，
 [耳鳴中枢説（じめいちゅうすうせつ, Central Theory of Tinnitus）](_Word/central-theory-of-tinnitus.md)，
 [包囲（Encirclement）](_Word/encirclement.md)，
-[囲い込み（Enclosure, $s$平面上のナイキスト経路（閉曲線）が，右半面に存在する極や零点をその内側に含んでいること．）](_Word/enclosure.md)，
+[囲い込み（Enclosure](_Word/enclosure.md)，
 [むだ時間（Dead Time, L）](_Word/dead-time.md)，
 [最小位相系（Minimum Phase System, MPS）](_Word/minimum-phase-system.md)，
 [線形時不変（Linear Time-Invariant, LTI）](_Word/linear-time-invariant.md)，
@@ -74,5 +74,9 @@
 [イースターエッグ（Easter Egg）](_Word/easter-egg.md)，
 [位相余裕（Phase Margin, PM）](_Word/phase-margin.md)，
 [ゲイン余裕（Gain Margin, GM）](_Word/gain-margin.md)，
-[ゲイン交差周波数（Gain Crossover Frequency, $\omega_gc$）](_Word/gain-crossover-frequency.md)，
+[ゲイン交差周波数（Gain Crossover Frequency）](_Word/gain-crossover-frequency.md)，
 [位相交差周波数（Phase Crossover Frequency）](_Word/phase-crossover-frequency.md)，
+[可制御性（Controllability）](_Word/controllability.md)，
+[可観測性（Observability）](_Word/observability.md)，
+[可制御性行列（Controllability Matrix）](_Word/controllability-matrix.md)，
+[可観測性行列（Observability Matrix）](_Word/observability-matrix.md)，
