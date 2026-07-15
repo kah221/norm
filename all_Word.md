@@ -84,3 +84,5 @@
 [整定時間（Settling Time）](_Word/settling-time.md)，
 [ラプラス変換（Laplace Transform, L）](_Word/laplace-transform.md)，
 [z変換（Z-Transform）](_Word/z-transform.md)，
+[エルゴード性（Ergodicity）](_Word/ergodicity.md)，
+[自己相関関数（Autocorrelation Function, ACF）](_Word/autocorrelation-function.md)，
