@@ -86,3 +86,4 @@
 [z変換（Z-Transform）](_Word/z-transform.md)，
 [エルゴード性（Ergodicity）](_Word/ergodicity.md)，
 [自己相関関数（Autocorrelation Function, ACF）](_Word/autocorrelation-function.md)，
+[パワースペクトル密度（Power Spectral Density, PSD）](_Word/power-spectral-density.md)，
