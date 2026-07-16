@@ -87,3 +87,6 @@
 [エルゴード性（Ergodicity）](_Word/ergodicity.md)，
 [自己相関関数（Autocorrelation Function, ACF）](_Word/autocorrelation-function.md)，
 [パワースペクトル密度（Power Spectral Density, PSD）](_Word/power-spectral-density.md)，
+[相互相関関数（Cross Correlation Function）](_Word/cross-correlation-function.md)，
+[クロススペクトル密度（Cros Spectral Density, CSD）](_Word/cross-spectral-density.md)，
+[ウェーブレット変換（Wavelet Transform, WT）](_Word/wavelet-transform.md)，
