@@ -1,3 +1,9 @@
+---
+title: norm-allwords
+description: All words in this project.
+---
+
+
 260619_1756  
 登録した単語一覧（文字だけ）
 
