@@ -170,9 +170,31 @@
         "subdir": "dashboard"
       },
       "resolved": "https://github.com/kah221/norm-style.git",
-      "commit": "284fbdf1ab9228f127ba3ad6ef6a73b75bf47e48",
+      "commit": "72cbf5d94cffd2cbf694465a638e2a843c305fc5",
       "subdir": "dashboard",
-      "installedAt": "2026-07-08T19:04:56.724Z"
+      "installedAt": "2026-07-18T11:38:32.037Z"
+    },
+    "norm-intro-bottom": {
+      "source": {
+        "name": "norm-intro-bottom",
+        "repo": "https://github.com/kah221/norm-style.git",
+        "subdir": "dashboard"
+      },
+      "resolved": "https://github.com/kah221/norm-style.git",
+      "commit": "72cbf5d94cffd2cbf694465a638e2a843c305fc5",
+      "subdir": "dashboard",
+      "installedAt": "2026-07-18T11:38:31.957Z"
+    },
+    "norm-intro-top": {
+      "source": {
+        "name": "norm-intro-top",
+        "repo": "https://github.com/kah221/norm-style.git",
+        "subdir": "dashboard"
+      },
+      "resolved": "https://github.com/kah221/norm-style.git",
+      "commit": "72cbf5d94cffd2cbf694465a638e2a843c305fc5",
+      "subdir": "dashboard",
+      "installedAt": "2026-07-18T11:38:32.011Z"
     },
     "note-properties": {
       "source": "github:quartz-community/note-properties",

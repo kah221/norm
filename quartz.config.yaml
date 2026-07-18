@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Quartz 5
+  pageTitle: Norm # 変更前：Quartz 5
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
@@ -24,8 +24,9 @@ configuration:
       - quartz.ts
       - _Book
       - _Note
+      - index-commentout
       - all_Name.md
-      - all_Word.md
+      # -   all_Word.md
       - readme.md
   theme:
     fontOrigin: googleFonts
@@ -285,6 +286,24 @@ plugins:
     layout:
       position: beforeBody
       priority: 15
+      display: all
+  - source:
+      name: norm-intro-top
+      repo: "https://github.com/kah221/norm-style.git"
+      subdir: dashboard
+    enabled: true
+    layout:
+      position: beforeBody
+      priority: 12
+      display: all
+  - source:
+      name: norm-intro-bottom
+      repo: "https://github.com/kah221/norm-style.git"
+      subdir: dashboard
+    enabled: true
+    layout:
+      position: afterBody
+      priority: 10
       display: all
   - source:
       name: norm-dashboard
