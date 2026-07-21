@@ -101,3 +101,4 @@ description: All words in this project.
 [自励振動（Self-Excited Vibration）](_Word/self-excited-vibration.md)，
 [自由振動（Free Vibration）](_Word/free-vibration.md)，
 [強制振動（Forced Vibration）](_Word/forced-vibration.md)，
+[ヤコビ行列（Jacobian Matrix）](_Word/jacobian-matrix.md)，
