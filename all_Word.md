@@ -102,3 +102,4 @@ description: All words in this project.
 [自由振動（Free Vibration）](_Word/free-vibration.md)，
 [強制振動（Forced Vibration）](_Word/forced-vibration.md)，
 [ヤコビ行列（Jacobian Matrix）](_Word/jacobian-matrix.md)，
+[DHパラメータ（Denavit-Hartenberg Parameters）](_Word/denavit-hartenberg-parameters.md)，
