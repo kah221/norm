@@ -26,9 +26,9 @@ source:
 原点を通る軸回りの回転操作による座標変換を行列で表現したもの．  
 回転変換は直交変換の一種．  
 ## 性質
-- $\boldsymbol{R}^{-1} = \boldsymbol{R^\top}$：逆行列と転置が一致する
-- $\mathrm{det}(\boldsymbol{R}) = 1$ ：行列式が1
-- 直交行列：各行・列が互いに直行する単位ベクトル
+- $\boldsymbol{R}^{-1} = \boldsymbol{R^\top}$
+- $\mathrm{det}(\boldsymbol{R}) = 1$ 
+- 直交行列：各行・列が互いに直行する単位ベクトルになっている
 - （ $\mathrm{det}(\boldsymbol{R}) = -1$ となる直交行列は鏡映で，回転行列とは別）
 
 ## 回転方向の符号
