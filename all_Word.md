@@ -96,10 +96,12 @@ description: All words in this project.
 [相互相関関数（Cross Correlation Function）](_Word/cross-correlation-function.md)，
 [クロススペクトル密度（Cros Spectral Density, CSD）](_Word/cross-spectral-density.md)，
 [ウェーブレット変換（Wavelet Transform, WT）](_Word/wavelet-transform.md)，
-[エイリアシング（エリアシング;折り返し雑音;折り返しノイズ;Folding Noise, Aliasing）](_Word/aliasing.md)，
+[エイリアシング（Folding Noise, Aliasing）](_Word/aliasing.md)，
 [漏れ誤差（Spectral Leakage）](_Word/spectral-leakage.md)，
 [自励振動（Self-Excited Vibration）](_Word/self-excited-vibration.md)，
 [自由振動（Free Vibration）](_Word/free-vibration.md)，
 [強制振動（Forced Vibration）](_Word/forced-vibration.md)，
 [ヤコビ行列（Jacobian Matrix）](_Word/jacobian-matrix.md)，
 [DHパラメータ（Denavit-Hartenberg Parameters）](_Word/denavit-hartenberg-parameters.md)，
+[回転行列（Rotation Matrix）](_Word/rotation-matrix.md)，
+[同次変換行列（Homogeneous Transformation Matrix）](_Word/homogeneous-transformation-matrix.md)，
