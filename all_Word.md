@@ -105,3 +105,5 @@ description: All words in this project.
 [DHパラメータ（Denavit-Hartenberg Parameters）](_Word/denavit-hartenberg-parameters.md)，
 [回転行列（Rotation Matrix）](_Word/rotation-matrix.md)，
 [同次変換行列（Homogeneous Transformation Matrix）](_Word/homogeneous-transformation-matrix.md)，
+[リンクヤコビ行列（Link Jacobian Matrix）](_Word/link-jacobian-matrix.md)，
+[一般化逆行列（Generalized Inverse）](_Word/generalized-inverse.md)，

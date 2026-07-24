@@ -46,7 +46,7 @@ $$
 - 各 $x_1 \sim x_2$ が，各 $f_1 \sim f_n$ に対してどれくらいの感度を持っているのか???
 
 ---
-## 例）3自由度平面ロボットの[順運動学](_Word/forward-kinematics.md)
+## 例① 3自由度平面ロボットの[順運動学](_Word/forward-kinematics.md)
 
 ### 構造の説明
 - 3つのリンクと3つの1自由度回転関節から構成される
@@ -160,6 +160,34 @@ $$
 - 解析的解法：幾何学的関係・三角関数の逆関数を用いて，閉じた式で関節角度を直接求める．
 	- ↑ロボットの構成によっては解析解がありそのまま解ける  
 - 数値解法：ヤコビ行列の逆行列を用いて微小変位を反復的に更新
+
+---
+## 例② 6自由度ロボットの場合
+> 位置と姿勢合わせた6自由度
+
+↓$q$ は直動関節なら $d$，回転関節なら $\theta$ と表記する
+$$
+[\mathrm{d}x, \mathrm{d}y, \mathrm{d}z, \delta x, \delta y, \delta z]^\top = \boldsymbol{J}(q)
+[\mathrm{d}q_1, \mathrm{d}q_2, \mathrm{d}q_3, \mathrm{d}q_4, \mathrm{d}q_5, \mathrm{d}q_6]^\top
+$$
+
+第 $i$ 関節が回転なら
+$$
+\boldsymbol{J}(q) = 
+\begin{bmatrix}
+\boldsymbol{z}_{i-1} × ^{i-1}\boldsymbol{p}_6 \\
+\boldsymbol{z}_{i-1}
+\end{bmatrix}
+$$
+
+第 $i$ 関節が直動（並進）なら
+$$
+\boldsymbol{J}(q) = 
+\begin{bmatrix}
+\boldsymbol{z}_{i-1} \\
+\boldsymbol{0}
+\end{bmatrix}
+$$
 
 
 [^1]: 鈴森康一．ロボット機構学．コロナ社（2004），p.129-130．
