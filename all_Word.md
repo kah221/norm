@@ -108,3 +108,4 @@ description: All words in this project.
 [リンクヤコビ行列（Link Jacobian Matrix）](_Word/link-jacobian-matrix.md)，
 [一般化逆行列（Generalized Inverse）](_Word/generalized-inverse.md)，
 [双一次変換（Bilinear Transform）](_Word/bilinear-transform.md)，
+[共振ピーク（Resonant Peak, M_r）](_Word/resonant-peak.md)，
