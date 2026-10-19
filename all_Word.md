@@ -109,3 +109,8 @@ description: All words in this project.
 [一般化逆行列（Generalized Inverse）](_Word/generalized-inverse.md)，
 [双一次変換（Bilinear Transform）](_Word/bilinear-transform.md)，
 [共振ピーク（Resonant Peak, M_r）](_Word/resonant-peak.md)，
+[二乗平均平方根誤差（Root Mean Square Error, RMSE）](_Word/root-mean-square-error.md)，
+[異名同音（いめいどうおん, Enharmonic Equivalence）](_Word/enharmonic-equivalence.md)，
+[音階（Scale）](_Word/scale.md)，
+[半音階（Chromatic Scale）](_Word/chromatic-scale.md)，
+[全音音階（Whole Tone Scale, ホールトーン・スケール;ホールトーンスケール;Whole-Tone Scale）](_Word/whole-tone-scale.md)，
