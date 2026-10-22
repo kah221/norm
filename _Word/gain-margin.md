@@ -77,16 +77,16 @@ $$
 	-  有理化し，実部と虚部に分けておく  
 
 **＜ゲイン余裕＞**  
-4. 位相交差 $\omega_p$ を求める　→　虚部 $= 0$ 
-5. $|L(j\omega_p)|$ を求める
-6. 公式適用　→　$\mathrm{GM} = - 20 \log (|L(j\omega_p)|)$  
+3. 位相交差 $\omega_p$ を求める　→　虚部 $= 0$ 
+4. $|L(j\omega_p)|$ を求める
+5. 公式適用　→　$\mathrm{GM} = - 20 \log (|L(j\omega_p)|)$  
 
 **＜位相余裕＞**  
-7. ゲイン交差 $\omega_g$ を求める　→　 $|L(j\omega)| = 1$ 
-8. $\angle L(j\omega_g)$ を求める
+6. ゲイン交差 $\omega_g$ を求める　→　 $|L(j\omega)| = 1$ 
+7. $\angle L(j\omega_g)$ を求める
 	- 分子は+，分母は-，積は和になる
 	- $\angle (ja + b) = \tan^{-1} (a/b)$
-9. 公式適用　→　$\mathrm{PM} = \angle L(j\omega_g) + 180 ^\circ$  
+8. 公式適用　→　$\mathrm{PM} = \angle L(j\omega_g) + 180 ^\circ$  
 
 <img src="../_A/own/2026/10/202610_234626_gain-margin.webp" alt="" width="400">
 <img src="../_A/own/2026/10/202610_235338_gain-margin.webp" alt="" width="400">
