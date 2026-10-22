@@ -75,16 +75,18 @@ $$
 1. 最小位相系か判別（開ループ極を求める）
 2. 周波数伝達関数(ベクトル軌跡)を式で求める（$s = j\omega$ 代入）
 	-  有理化し，実部と虚部に分けておく  
+
 **＜ゲイン余裕＞**  
-3. 位相交差 $\omega_p$ を求める　→　虚部 $= 0$ 
-4. $|L(j\omega_p)|$ を求める
-5. 公式適用　→　$\mathrm{GM} = - 20 \log (|L(j\omega_p)|)$  
+1. 位相交差 $\omega_p$ を求める　→　虚部 $= 0$ 
+2. $|L(j\omega_p)|$ を求める
+3. 公式適用　→　$\mathrm{GM} = - 20 \log (|L(j\omega_p)|)$  
+
 **＜位相余裕＞**  
-6. ゲイン交差 $\omega_g$ を求める　→　 $|L(j\omega)| = 1$ 
-7. $\angle L(j\omega_g)$ を求める
+1. ゲイン交差 $\omega_g$ を求める　→　 $|L(j\omega)| = 1$ 
+2. $\angle L(j\omega_g)$ を求める
 	- 分子は+，分母は-，積は和になる
 	- $\angle (ja + b) = \tan^{-1} (a/b)$
-8. 公式適用　→　$\mathrm{PM} = \angle L(j\omega_g) + 180 ^\circ$  
+3. 公式適用　→　$\mathrm{PM} = \angle L(j\omega_g) + 180 ^\circ$  
 
 <img src="../_A/own/2026/10/202610_234626_gain-margin.webp" alt="" width="400">
 <img src="../_A/own/2026/10/202610_235338_gain-margin.webp" alt="" width="400">
