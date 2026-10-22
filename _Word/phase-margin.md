@@ -63,21 +63,22 @@ $$
 
 ### 手順
 (ゲイン余裕も一緒に求めている)
-1. 最小位相系か判別（開ループ極を求める）
+1. [最小位相系](_Word/minimum-phase-system.md)か判別（開ループ極を求める）
 2. 周波数伝達関数(ベクトル軌跡)を式で求める（$s = j\omega$ 代入）
-	- 有理化し，実部と虚部に分けておく  
+	-  有理化し，実部と虚部に分けておく  
 
 **＜ゲイン余裕＞**  
-1. 位相交差 $\omega_p$ を求める　→　虚部 $= 0$ 
-2. $|L(j\omega_p)|$ を求める
-3. 公式適用　→　$\mathrm{GM} = - 20 \log (|L(j\omega_p)|)$  
+4. 位相交差 $\omega_p$ を求める　→　虚部 $= 0$ 
+5. $|L(j\omega_p)|$ を求める
+6. 公式適用　→　$\mathrm{GM} = - 20 \log (|L(j\omega_p)|)$  
 
 **＜位相余裕＞**  
-1. ゲイン交差 $\omega_g$ を求める　→　 $|L(j\omega)| = 1$ 
-2. $\angle L(j\omega_g)$ を求める
+7. ゲイン交差 $\omega_g$ を求める　→　 $|L(j\omega)| = 1$ 
+8. $\angle L(j\omega_g)$ を求める
 	- 分子は+，分母は-，積は和になる
 	- $\angle (ja + b) = \tan^{-1} (a/b)$
-3. 公式適用　→　$\mathrm{PM} = \angle L(j\omega_g) + 180 ^\circ$  
+9. 公式適用　→　$\mathrm{PM} = \angle L(j\omega_g) + 180 ^\circ$  
+
 
 <img src="../_A/own/2026/10/202610_234616_phase-margin.webp" alt="" width="400">
 <img src="../_A/own/2026/10/202610_235354_phase-margin.webp" alt="" width="400">
