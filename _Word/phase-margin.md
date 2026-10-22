@@ -79,7 +79,7 @@ $$
 
 
 <img src="../_A/own/2026/10/202610_234616_phase-margin.webp" alt="" width="400">
-<img src="../_A/own/2026/10/202610_235354_phase-margin.webp" alt="" width="400">
+<img src="../_A/own/2026/10/202610_230226_phase-margin.webp" alt="" width="400">
 
 
 

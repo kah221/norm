@@ -87,8 +87,7 @@ $$
 	3. 公式：$\mathrm{PM} = \angle L(j\omega_g) + 180 ^\circ$  
 
 <img src="../_A/own/2026/10/202610_234626_gain-margin.webp" alt="" width="400">
-<img src="../_A/own/2026/10/202610_235338_gain-margin.webp" alt="" width="400">
-
+<img src="../_A/own/2026/10/202610_230257_gain-margin.webp" alt="" width="400">
 
 
 [^1]: 森泰親．演習で学ぶ現代制御理論．新装版，森北出版（2014），p.105-106．
