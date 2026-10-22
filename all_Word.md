@@ -114,3 +114,4 @@ description: All words in this project.
 [音階（Scale）](_Word/scale.md)，
 [半音階（Chromatic Scale）](_Word/chromatic-scale.md)，
 [全音音階（Whole Tone Scale, ホールトーン・スケール;ホールトーンスケール;Whole-Tone Scale）](_Word/whole-tone-scale.md)，
+[遺伝的アルゴリズム（Genetic Algorithm, GA）](_Word/genetic-algorithm.md)，
