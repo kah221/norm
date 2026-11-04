@@ -26,11 +26,14 @@ source:
 # 等M軌跡／等M円（Constant-M Loci／Constant-M Circle）
 > 直結フィードバック系において，閉ループ伝達関数の大きさ $M = |M(j\omega)|$ が一定の値をとる点を，開ループ周波数伝達関数 $G(j\omega)$ の平面上で結んだ曲線．
 
-<img src="../_A/ext/2026/11/202611_055043_constant-m-loci.webp" alt="[外部著作物のため非公開]" width="400">
-**Fig. 1**　等M円（ $G(j\omega)$平面 ）
+<img src="../_A/ext/2026/11/202611_055043_constant-m-loci.webp" alt="[外部著作物のため非公開]" width="400">  
 
-<img src="../_A/ext/2026/11/202611_055855_constant-m-loci.webp" alt="[外部著作物のため非公開]" width="400">
-**Fig. 2**　等M軌跡（ ゲイン位相平面．ニコルス線図 ）
+$\mathrm{Fig}. 1$　等M円（ $G(j\omega)$平面 ）
+
+
+<img src="../_A/ext/2026/11/202611_055855_constant-m-loci.webp" alt="[外部著作物のため非公開]" width="400">  
+
+$\mathrm{Fig}. 2$　等M軌跡（ ゲイン位相平面．ニコルス線図 ）
 
 ## 注意点
 ### 前提：直結FB

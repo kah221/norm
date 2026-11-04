@@ -32,7 +32,10 @@ $$
 L(s) = \frac{10}{s(1 + 0.2s)(1 + 0.02s)}
 $$
 
-<img src="../_A/own/2026/11/202611_054918_magnitude-phase-plot.webp" alt="" width="400">
+<img src="../_A/own/2026/11/202611_054918_magnitude-phase-plot.webp" alt="" width="400">  
+
+$\mathrm{Fig}. 1$　ゲイン位相線図の例
+
 
 ## 読み取れること
 - 臨界点 $(-1, j0)$：$0 \; \mathrm{dB}$ 軸と $-180 °$ 軸の交点

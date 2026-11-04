@@ -26,8 +26,10 @@ source:
 # 直結フィードバック系（Unity Feedback System）
 > フィードバック経路の伝達関数が $H(s) = 1$ であり，出力がそのまま目標値と比較される閉ループ系．
 
-<img src="../_A/own/2026/11/202611_051850_unity-feedback-system.webp" alt="" width="400">
-**Fig. 1**　閉ループ系のブロック線図
+<img src="../_A/own/2026/11/202611_051850_unity-feedback-system.webp" alt="" width="400">  
+
+$\mathrm{Fig}. 1$　閉ループ系のブロック線図
+
 
 ## 一般的な閉ループ伝達関数
 
