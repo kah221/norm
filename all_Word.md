@@ -113,5 +113,10 @@ description: All words in this project.
 [異名同音（いめいどうおん, Enharmonic Equivalence）](_Word/enharmonic-equivalence.md)，
 [音階（Scale）](_Word/scale.md)，
 [半音階（Chromatic Scale）](_Word/chromatic-scale.md)，
-[全音音階（Whole Tone Scale, ホールトーン・スケール;ホールトーンスケール;Whole-Tone Scale）](_Word/whole-tone-scale.md)，
+[全音音階（Whole Tone Scale）](_Word/whole-tone-scale.md)，
 [遺伝的アルゴリズム（Genetic Algorithm, GA）](_Word/genetic-algorithm.md)，
+[ニコルス線図（Nichols Chart）](_Word/nichols-chart.md)，
+[ゲイン位相線図（Magnitude-Phase Plot）](_Word/magnitude-phase-plot.md)，
+[等M曲線（Constant-M Loci）](_Word/constant-m-loci.md)，
+[等N軌跡（Constant-N Loci）](_Word/constant-n-loci.md)，
+[直結フィードバック系（Unity Feedback System）](_Word/unity-feedback-system.md)，
