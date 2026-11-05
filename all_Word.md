@@ -117,6 +117,6 @@ description: All words in this project.
 [遺伝的アルゴリズム（Genetic Algorithm, GA）](_Word/genetic-algorithm.md)，
 [ニコルス線図（Nichols Chart）](_Word/nichols-chart.md)，
 [ゲイン位相線図（Magnitude-Phase Plot）](_Word/magnitude-phase-plot.md)，
-[等M曲線（Constant-M Loci）](_Word/constant-m-loci.md)，
+[等M軌跡（Constant-M Loci）](_Word/constant-m-loci.md)，
 [等N軌跡（Constant-N Loci）](_Word/constant-n-loci.md)，
-[直結フィードバック系（Unity Feedback System）](_Word/unity-feedback-system.md)，
+[単一フィードバック系（Unity Feedback System）](_Word/unity-feedback-system.md)，

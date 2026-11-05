@@ -26,6 +26,6 @@ source:
   - https://www.jstage.jst.go.jp/article/sicejl1954/1/3/1_3_159/_pdf/-char/en
 ---
 # 等N軌跡（Constant-N Loci）
-> 直結フィードバック系において，閉ループ伝達関数の位相 $\phi = \angle M(j\omega)$ が一定の値をとる点を，開ループ周波数伝達関数 $G(j\omega)$ の平面上で結んだ軌跡．
+> 単一フィードバック系において，閉ループ伝達関数の位相 $\phi = \angle M(j\omega)$ が一定の値をとる点を，開ループ周波数伝達関数 $G(j\omega)$ の平面上で結んだ軌跡．
 
 後で書く

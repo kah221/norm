@@ -1,14 +1,14 @@
 ---
 time: 2026-11-05T03:10
-jp: 直結フィードバック系
+jp: 単一フィードバック系
 en: Unity Feedback System
 aliases:
-  - "直結フィードバック系"
-  - "直結フィードバック"
-  - "ユニティフィードバック系"
-  - "単位フィードバック系"
-  - "単一フィードバック系"
-  - "Unity Feedback"
+  - 直結フィードバック系
+  - 直結フィードバック
+  - ユニティフィードバック系
+  - 単位フィードバック系
+  - 単一フィードバック系
+  - Unity Feedback
 tags:
   - 分野/制御工学/古典制御
   - 要素/概念
@@ -21,9 +21,9 @@ pair:
   - "[[_Word/non-unity-feedback-system|非直結フィードバック系]]"
 person:
 source:
-  - "https://people-ece.vse.gmu.edu/~gbeale/ece_421/notes-ess-non-unity.pdf"
+  - https://people-ece.vse.gmu.edu/~gbeale/ece_421/notes-ess-non-unity.pdf
 ---
-# 直結フィードバック系（Unity Feedback System）
+# 単一フィードバック系（Unity Feedback System）
 > フィードバック経路の伝達関数が $H(s) = 1$ であり，出力がそのまま目標値と比較される閉ループ系．
 
 <img src="../_A/own/2026/11/202611_051850_unity-feedback-system.webp" alt="" width="400">  
@@ -36,14 +36,14 @@ $\mathrm{Fig}. 1$　閉ループ系のブロック線図
 $$
 \boldsymbol{M}(s) = \frac{\boldsymbol{G}(s)}{1 + \boldsymbol{G}(s)\boldsymbol{H}(s)} = \frac{\boldsymbol{G}(s)}{1 + \boldsymbol{L}(s)}
 $$
-## 直結フィードバック系の閉ループ伝達関数
+## 単一フィードバック系の閉ループ伝達関数
 $\boldsymbol{H}(s) = 1$ なので
 
 $$
 \boldsymbol{M}(s) = \frac{\boldsymbol{G}(s)}{1 + \boldsymbol{G}(s)}
 $$
 
-## 直結であるならば...
+## 単一であるならば...
 - 一巡伝達関数 $\boldsymbol{L}(s)$  と前向き経路の伝達関数 $\boldsymbol{G}(s)$  と一致する
 	- $\boldsymbol{L}(s) = \boldsymbol{G}(s)\boldsymbol{H}(s)$　→　$\boldsymbol{L}(s) = \boldsymbol{G}(s)$
 	- ※厳密には，一巡伝達関数は，開ループ伝達関数は常に一致するとは限らない
@@ -60,5 +60,5 @@ $$
 | $\boldsymbol{L}(s)$ | 一巡伝達関数<br>（開ループ伝達関数）    | ループを1か所で切り開き，そこから信号を入れて輪を一周させたときに通る，全ての要素の積  <br>「ぐるっと」の部分  <br>$\boldsymbol{L}(s) = \boldsymbol{G}(s)\boldsymbol{H}(s)$  <br>どこで切っても通る要素は同じなので，入出力に無関係．  <br>★ループそのものの性質を表す |
 
 ## メモ
-- 直結フィードバック系であることが前提　である解析手法があるので注意．
+- 単一フィードバック系であることが前提　である解析手法があるので注意．
 	- 例）等M軌跡，等N軌跡，ニコルス線図
